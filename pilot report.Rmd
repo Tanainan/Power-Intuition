@@ -68,6 +68,7 @@ reportObject <- data.frame(dummyRow = TRUE, reportedValue = NA, obtainedValue = 
 # Step 2: Load data
 
 ```{r}
+<<<<<<< HEAD
 dataNew <- read.csv("data study 1.csv")
 dataCompleet=dataNew[dataNew$Finished==1,]
 dat=dataCompleet
@@ -75,11 +76,15 @@ dat=dataCompleet
 R2=read.csv("Q1dataC1eval_Second rater.csv")
 R1=read.csv2("Q1dataC1eval_First rater.csv")
 RF=read.csv("EvalFinal.csv")
+=======
+dat <- read.csv("data study 1.csv")
+>>>>>>> e890be8602237f2fe46b5796a666477b2e5e3253
 ```
 
 # Step 3: Tidy data
 
 ```{r}
+<<<<<<< HEAD
 R2$Power[which(is.na(R2$Power))]=0
 R1$Power[which(is.na(R1$Power))]=0
 
@@ -94,6 +99,8 @@ R1$Practical.constraints[which(is.na(R1$Practical.constraints))]=0
 
 R2$As.many.as.possible[which(is.na(R2$As.many.as.possible))]=0
 R1$As.many.as.possible[which(is.na(R1$As.many.as.possible))]=0
+=======
+>>>>>>> e890be8602237f2fe46b5796a666477b2e5e3253
 ```
 
 # Step 4: Run analysis
@@ -103,6 +110,7 @@ R1$As.many.as.possible[which(is.na(R1$As.many.as.possible))]=0
 [you can remove this section if no pre-processing is required]
 
 ```{r}
+<<<<<<< HEAD
 library(devtools)
 install_github("nicebread/WRS", subdir="pkg")
 install.packages("WRS")
@@ -127,11 +135,14 @@ R2[which(R1$As.many.as.possible!=R2$As.many.as.possible),]
 
 
 k=(Po-Pe)/(1-Pe)
+=======
+>>>>>>> e890be8602237f2fe46b5796a666477b2e5e3253
 ```
 
 ## Descriptive statistics
 
 ```{r}
+<<<<<<< HEAD
 # Methods section description ---------------------------------------------
 a <- dim(dataNew)[1]; a # The number of contacted researchers
 reportObject <- reproCheck(reportedValue = '499', obtainedValue = a, valueType = 'other')
@@ -590,12 +601,17 @@ sum(table(dat$Q7_C2_v1))
 table(dat$Q7_C2_v2)
 round(table(dat$Q7_C2_v2)/sum(table(dat$Q7_C2_v2))*100)
 sum(table(dat$Q7_C2_v2))
+=======
+>>>>>>> e890be8602237f2fe46b5796a666477b2e5e3253
 ```
 
 ## Inferential statistics
 
 ```{r}
+<<<<<<< HEAD
 
+=======
+>>>>>>> e890be8602237f2fe46b5796a666477b2e5e3253
 ```
 
 # Step 5: Conclusion
