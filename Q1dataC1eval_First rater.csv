@@ -1,0 +1,198 @@
+;row;Q1;Power;Other experiments;Rule of Thumb;Practical constraints;As many as possible
+1;1;Power analysis ;1;;;;
+2;2;I will use a power analysis or go with the at-least-30-participants-per-condition rule.;1;;1;;
+3;3;"The design of the experiment; the time of year (i.e., end of the semester);";;;;1;
+4;6;Statistical power;1;;;;
+5;8;I adopt the rule of thumb to try to guarantee at least 30 subjects per condition. Though, where possible I try together data from as many subjects as are available.;;;1;;1
+6;9;Power analysis in advance, before I recruit my participants.;1;;;;
+7;10;I usually aim for 20 - 25 participants per cell of the experimental design, which is typically what it takes to detect a medium effect size with .80 probability.  My answer to the next question is based on the assumption that the experiment would be a standard two-cell design.;;;1;;
+8;11;By a practical balance with practical constraints (i.e. available founding), and expected sample size to detect the effect of interest. ;;;;1;
+9;13;Power analysis such that I have an 80% chance or better of detecting my target effect size. ;1;;;;
+10;14;power analysis, pre-experiments;1;;;;
+11;15;Power analysis, or look at how much data is required in order to get stable parameter estimates for the model of interest.;1;;;;
+12;16;Power Analysis and examination of what is done in published research studies on the same topic.;1;1;;;
+13;18;My ideal N is always based on an estimate of the effect size, and the alpha and beta errors I consider as adequate. The actual N however is often smaller due to restrictions in terms of participant money, participants available and lab space. ;1;;;1;
+14;20;I use secondary  data analysis of large-scale longitudinal data (N >5000) for virtually all my research;;;;;
+15;23;I typically conduct an a prior power analysis. From there I collect as many subjects as I can. I work at a small university, so this often takes multiple semesters. Additionally, I do look at my data at the end of each semester and, if minimum sample sizes have been reached (at least n = 20 per cell) and the effects I am looking for are there, I will stop data collection.;1;;;;1
+16;24;power analysis evt. based on pilot study / ;1;;;;
+17;25;Using the convention established by others;;1;;;
+18;28;I have tried to replicate the higher sample size used in similar studies;;1;;;
+19;30;Power, availability, past levels of attrition. ;1;;;1;
+20;31;I work with large available databases and based on the research question I conduct a power analysis;1;;;;
+21;35;"I carry out simulations, rather than with individuals. The simple size should be as large as posible; power analysis are relevant for statistical signifcance only, but not for effect sizes.";1;;;;
+22;36;Experimental studies with expected large effects, I normally choose n = 20 per cell.  For moderate effects, I normally choose n = 30 per cell.  For correlational studies, I normally aim for at least 100 participants.;;;1;;
+23;39;Based first on effect size and power which can usually be found in prior research published. Second consideration is feasibility which factors in recruitment timetable and cost.;1;;;1;
+24;41;Power analysis;1;;;;
+25;42;"Use G*Power to determine the sample size large enough to detect the ""average"" effect size in social/personality research, i.e. .3. ";1;;;;
+26;44;In advance based on previous research indicative of likely effect sizes;;1;;;
+27;47;In the past, I have always assumed at least 100 participants. Now I shoot for that number.;;;1;;
+28;48;"I target N = 200 if I can get it; try not to fall below 120. These numbers, I have found, offer sufficient power to detect effects at p < .05 that are also of practical significance in the areas in which I do research.";1;;1;;
+29;49;I perform a-priori power analyses;1;;;;
+30;50;It is usually based on how many participants we manage to get based on our available resources, such as the availability of credit subjects and funding.;;;;1;
+31;51;Most usually by reference to previous studies using the same or similar paradigms.;;1;;;
+32;58;I make a quick calculation but our sample sizes are also influenced by the availability of the participants that we need;1;;;1;
+33;59;Either a power analysis based on earlier studies that used the same experiment or the same sample size as in earlier studies that used the same manipulation (for instance pharmacological challenge).;1;1;;;
+34;62;Guidelines and sample size calculation (GPower);1;;;;
+35;63;power analysis ;1;;;;
+36;65;"If designing a fresh study, try to have a min of 200 participants, which provides 80% power to detect an effect comparable to a correlation of .20. In web studies, we typically just leave a survey/study online until we're ready to deal with it. This leads to variable (and large) sample sizes, but the number isn't pre-determined. In many studies we're analyzing data from longitudinal datasets not designed by our team; we have no control over those N's. ";1;;1;;1
+37;66;With help from Statisticians;;;;;
+38;68;Because I study Latino issues, recruiting participants and retaining them is always an issue. I have used power analyses to calculate sample size in the past, but I have also just try my best to recruit at least over 200 participants and collect rich data that can add to the current literature and hope that a journal will see the significance of the study. ;1;;;;1
+39;71;based on recent research using a similar design.  / Note that we use expensive fMRI. So my aswer to the next question is none of these options. We plan a single fMRI study with 25 participatns within (if between which occurs seldom, we would use 20 in each condition). Please ignore my aswer, I have to fill in to continue;;;1;;
+40;73;Power analysis;1;;;;
+41;75;I base on the experimental conditions, using the heuristic of  at least 20 participants per cell. For example, for a 2x2, I would need at least 80 participants.;;;1;;
+42;78;No formal power analysis.  I select a sample size usually based on my past experience of what size sample is necessary for either (a) finding significance with an effect size in the range of r = .20 to .25, or (b) conducting the type of analysis that is plannec (i.e. about N = 300 for exploratory factor analysis).;;;1;;
+43;80;According to common practices in the field, and power analysis. ;1;1;;;
+44;84;A prior power analysis based on estimated or published effect sizes.;1;;;;
+45;86;Power analysis;1;;;;
+46;87;Availability and power analysis. Our research focuses on cancer patients so there is often a limit as to how many we can recruit/enroll in a specific time frame.;1;;;1;
+47;89;As much as time and funding allow;;;;;1
+48;91;Estimate the likely sample size needed based on previous studies/samples using similar designs, measures, and topics;;1;;;
+49;92;general rules of thumb e.g., at least 25 to 30 participants in each condition for an experimental study;;;1;;
+50;93;"Power analyses or conventional ""rules of thumb"" depending on the type of study done. ";1;;1;;
+51;94;Power analyses;1;;;;
+52;95;Power analysis.;1;;;;
+53;98;Power analysis.;1;;;;
+54;100;By a standard rule of thumb, I typically shoot for 150+. If I'm doing cross-cultural research or research with different populations, I shoot for 150 participants for every group.;;;1;;
+55;101;Based on 1) the N that similar studies (from my lab and others) have reported, and 2) a multiple of the number of participants needed to correctly counterbalance the order of trials. ;;1;;1;
+56;102;A-priori statistical power analysis.;1;;;;
+57;105;Based on the estimated effect, I calculate power, and CI width for various sample sizes.;1;;;;
+58;107;I do determine my sample size based on the common practice in my field.;;1;;;
+59;109;Number of variables or conditions / Generalizability / Power (but not usually calculated, more general recommendations) / The more, the better;1;;;;1
+60;112;Power-analysis based on effect size estimates. Estimates are based on past experiences.;1;;;;
+61;115;Whenever possible, power analysis based on pilot data. ;1;;;;
+62;116;Assuming that this is pertaining to collection of new data and not archival data, I determine the sample size by trying to estimate effect sizes and see what sample is needed to be powerful enough to detect that magnitude of an effect, reviewing other studies' sample sizes (assuming relevant studies exist), and then there are practical constraints that sometimes may constrain sample size (e.g., specific mental disorder is less often diagnosed in my local area than estimated prior to data collection). ;1;1;;1;
+63;118;power analysis to determine sample size required to detect effects of various size;1;;;;
+64;119;rules of thumb for between, within, and mixed model designs and number of factors. ;;;1;;
+65;120;power analysis + what is feasible;1;;;1;
+66;122;It depends on the methodology, previously observed effect size, and subject population. Noisier subjects (e.g. children) or smaller expected effects require a larger N. If effect size is unknown, I estimate it by looking at an initial subset of data (I realize that 'data peeking' is frowned upon, but if the effect size is unknown, there's no other way). I then maintain the same sample size throughout a series of studies.;;;;;
+67;123;use past literature as an initial guide, but also try for at least 30 per cell of a between-subjects design.;;1;1;;
+68;124;Consider sample sizes of similar studies published in the past and conduct a power analysis using estimated effect sizes based on previous research.;1;1;;;
+69;126;Previous studies on the topic and specific research design.;;1;;;
+70;127;Try to obtain as many as possible;;;;;1
+71;128;"My case is perhaps unique in that I have mostly worked with a longitudinal data set that is now 40 years old and that was established in the early 70s.  it can't ""grow"" except if we were to recruit cross sectional comparison groups which we did when the RTC participants entered public school and also for the early and mid-adolescent follow-up studies that we did.";;;;;
+72;130;A combination of power calculations (if I can estimate how large the effect will be, such as in studies that build on earlier similar work), professional experience, and practical constraints (e.g., number of participants in schools that participate in our research);1;;;1;
+73;131;via power analysis;1;;;;
+74;134;rule of thumb as suggested by simonsohn et al: # of conditions times 50;;;1;;
+75;135;using what is perceived as the 'field standard';;1;;;
+76;136;I copy the size of similar, previously published studies. If I can get pilot data, I estimated the sample size from the effect size.  ;;1;;;
+77;137;As large as I can get it.;;;;;1
+78;142;My sample size is limited by the number of monkeys of appropriate age and sex in our colony.  I select comparisons that have sufficient power to detect a reasonable effect size.  ;1;;;1;
+79;143;Mathematically;;;;;
+80;144;power analysis and typical practices in the field;1;1;;;
+81;145;If online or otherwise not too limited, these days I do a power analysis.  / If subjects coming into a lab, I'm restricted to about 300. And these are expensive. So I run ~150, analyze, and if it's close to significant but not there yet, I run an additional ~150.;1;;;1;
+82;148;Cohen's power table;1;;;;
+83;150;I tend to use to the same sample size (per cell);;;;;
+84;151;I look at other published research studies abnd estimate power requirements.;1;1;;;
+85;152;I tend to go for a fixed number (eg 50) per cell;;;1;;
+86;154;power analysis;1;;;;
+87;156;I try to get at least N=200 because that size least to adequate power for the kinds of effects I'm interested in.  ;1;;1;;
+88;159;Power analyses. However, I also try to respect the arbitrary rules that reviewers and editors are expecting for any given statistical approaches. Otherwise, my research might simply be rejected regardless of evidence provided by power analyses. ;1;;;;
+89;163;Rule of thumb = minimum 30 per between-subject cell (e.g., 2x2 = 120 participants).;;;1;;
+90;164;Try and recruit as many participants as possible within the time limit;;;;;1
+91;165;power analysis;1;;;;
+92;166;I gather data in typically developing children. I like to perform mediational analyses or SEM in a longitudinal perspective, thus I usually collect data on at least 150 children and I try to keep my sample around 100.;;;1;;
+93;167;Look at what other studies have had and what I can reasonably collect;;1;;1;
+94;176;use previous literature and ower analyses;1;1;;;
+95;179;Depends on the study, for one using the Psychology Subject Pool I use the number of participants allocated. This is usually at least 120. For community studies, we have considerably more participants (500+). ;;;;1;
+96;181;By general rules of thumb such as having 20 participants per condition or 20 participants per IV in a regression;;;1;;
+97;182;6 minimum, 12 optimum;;;1;;
+98;183;In correlational survey, we should collect more than 150 samples, whereas in experimental data, more than 30 participants are needed.;;;1;;
+99;184;if quantitative work, to have enough statistical power to detect anticipated effect sizes / if qualitative, to provide diversity of views/experiences for research question.;1;;;;
+100;185;By using one of de power calculators (for example,  G*power), but also on basis of the published studies with similar aims and design (to determine what is acceptable within our field);1;1;;;
+101;188;I do secondary analysis of existing data, this usually involves analyzing all available data for a set of variables.;;;;;
+102;189;I look at effect sizes in comparable studies.  Sometimes I use this information to estimate sample size needed for adequate power using the Gpower software.  However, if the effect size of interest is large enough, I improvise.  If the effect size of interest is too small, I may decide to pursue another path.;1;;;;
+103;190;between 25 and 30 participants per conditions;;;1;;
+104;192;"A mix between (a) power estimation (e.g., with G*Power or by reading in articles what sample is minimally expected), (b) practical considerations (e.g., financial costs, time, human resources, etc.), and (c) ""regular"" guidelines in the field of study (e.g., how many participants are usually used). My goal is usually to get as many participants as is possible.";1;1;;1;1
+105;195;I get as many participants as I possibly can over the 8-month school year until I run out. I often work with populations that don't give me access to a huge available sample, so I try every possible way of recruiting people given estimates of effect size (which isn't always known) to calculate the power I need. ;;;;;1
+106;198;Rule of thumb, 50 in each cell.;;;1;;
+107;199;Rules of thumb and a priori power analysis;1;;1;;
+108;202;I aim for at least 30 in each cell (or more based on expected effect size/ power) and then go until we run out of participants, money, or time. ;1;;1;;1
+109;203;Rule of thumb of N is minimally 20 per predictor.;;;1;;
+110;204;I usually try to get an idea of the effect size based on previous similar studies. I also try to get a sense of sufficient sample size by doing power computations, to establish a sufficient number of participants. However, practical issues (availability of money, time, participants) also determine the sample size, so that data collection might not yield the desired number of participants.;1;;;1;
+111;205;By doing a power calculation;1;;;;
+112;208;"Although I was taught to somewhat ""wing it"" and, for example, run participants for an entire semester, or pick an arbitrary target number, in the past few years I have been basing sample size decisions on a priori power analyses.";1;;;;
+113;209;Power analysis based on expected statistical approach and effect size. /  / **The next question forces me to respond without enough information. I chose a response below at random.;1;;;;
+114;210;General rules of thumb, which typically overestimate the power necessary for my analyses (e.g., 30-40 per cell when using t-tests or ANOVAs);;;1;;
+115;211;For visual perception studies, I base it on my own observation of the stimuli.  If it feels like a really strong illusion / effect, then maybe 8 or 12 subjects.  If it's weak, maybe 20-24 to make sure.;;;1;;
+116;213;Past research as a guideline. Pick a round number. Get as close as possible.;;1;;;
+117;217;Either by using a computer program to ascertain the size needed for appropriate power or by consulting prior research studies in the domain.;1;1;;;
+118;223;previous work in the area;;1;;;
+119;231;Based on the number of experimental conditions and/or based on previous studies in my field;;1;;;
+120;234;Given an assumed effect size we try to achieve a power of about .80;1;;;;
+121;235;by what is available and they type of study/design;;;;1;
+122;237;Extimates based on prior research;;1;;;
+123;239;The between subjects design includes how many conditions, 2? ;;;;;
+124;242;power and logistics (i.e., feasibility).;1;;;1;
+125;243;Based on the complexity of the design and planned statistical methods;;;;;
+126;244;On the basis of the research design and of the type of effect I'm going to test/study.;;;;;
+127;247;Power analysis on occasion, more often I know it is big enough given data collection opportunities.;1;;;;
+128;256;power analyses ;1;;;;
+129;258;guided by the sample available in the field or try to do some power analysis;1;1;;;
+130;261;The sampling technique should be more important than the size.  The more the size, the better the result is. ;;;;;1
+131;266;mainly power analysis, but also practical constraints;1;;;1;
+132;269;Since I carry out reseach in work organizations, I usually try to involve all the workers of the focused organization;;;;;1
+133;270;estimate power;1;;;;
+134;277;We have a lab that we use. Typically about 100-250 people sign up for each lab session, and I do not know in advance how many people will participate. I run studies in one and one only session. I never stop studies (unless there is an error in its operationalization) and never double up on sessions. ;;;;1;
+135;284;On the basis of previous Monte Carlo simulation or a specific power calculation. / I doubt whether any of the designs below have adquate power.;1;;;;
+136;290;In most cases I aim for about 40 people per condition;;;1;;
+137;299;Minimum sample needed is determined by referring to Cohen (1988) Statistical Power Tables. ;1;;;;
+138;301;A combination of power calculations and the results and methods of previous research.;1;1;;;
+139;302;"depends on effect size and reliability of the measure; for studies involving unknown effect sizes, I typically run a first with 100-120 participants and then use the results of this study to plan the sample size of follow-up studies";1;;;;
+140;311;I usually try to get as many respondents as possible (usually college students) /  / (I do not understand the following question, but there is no way for me to say so);;;;;1
+141;314;"The ""masquerade"" is powr analysis, but as my work is not experimental and does not only rely on a single question or a single predictor or outcome, I think this is all just silly. ";1;;;;
+142;319;by the breaks in the semester. I collect data as much data as I can until the semester ends and if it doesn't meet a minimum I continue to the next semester. ;;;;1;1
+143;323;A rough power analysis...but many of my samples are in the 10s of thousands so I don't typically worry too much about power...;1;;;;
+144;331;POWER ANALYSIS;1;;;;
+145;332;Feasibility in testing time/funding availability and recruitment pool.;;;;1;
+146;333;"The more, the better. / But the number of subjects to be available is limited. / Thus, ""compromise"" determines the sample size. ";;;;1;1
+147;336;Depends upon research design.  For basic correlational studies I aim for 100+, but this would go upwards depending upon the specific hypotheses, analyses appropriate for testing the hypotheses, and so forth.  For example, multiple regressions with many variables and some interactions, I would aim for larger sample size.   For experiments, I generally aim for 30+ per condition.  However, for exact estimates for specific study designs, I would calculate desired power, estimated sample size, etc.;1;;1;;
+148;338;I used to base my sample size on the heuristic: 15-20 participants per cell / Nowadays I standardly conduct poweranalysis to determine sample size;1;;1;;
+149;339;power analyses / practicability;1;;;1;
+150;342;it depends on the resources available. For a lab study at least 20-30  participants per condition (although the study suffers from low power it is difficult to get more participants in the lab);;;1;1;
+151;347;1. I use published data (from 1,000 to 100,000 participants). / 2. Rule of thumb. The more, the better. But e.g., individual testing in kindergarten is rather time consuming. Here smaller samples of about 20 for each student. Totally around 200.;;;1;;1
+152;349;Power analysis;1;;;;
+153;355;Because my experience on the neuroimaging techniques I used (ERPs, fMRI), I use to evaluate that I need to run at least 24 participants for each study. In some case, because the artifacts in ERPs the final simple could be less, but not below 16 or so participants. ;;;1;;
+154;359;By performing power analyses while setting up the study.;1;;;;
+155;361;The bigger the better. ;;;;;1
+156;362;Poweranalyses or out of what is possible in practice;1;;;1;
+157;363;I tale 30-40 participants/ expérimental condition;;;1;;
+158;365;Power analysis for the analyses I anticipate running. I also tend to use a rule of thumb of having at least 100 participants, as I tend to do correlational rather than experimental research.;1;;1;;
+159;368;I plan as a rule of thumb to run at least 20 participants per condition, but a larger number is preferable if feasible.;;;1;;1
+160;369;Based on previous reported studies and feasability ;;1;;1;
+161;374;According to relevant literature;;1;;;
+162;376;Power analysis based on effect size of pilot data or other literature;1;;;;
+163;378;By power calculation;1;;;;
+164;381;Power analysis and sample availability ;1;;;1;
+165;383;convenience;;;;1;
+166;385;Power analysis;1;;;;
+167;386;Cost (fMRI), availability (patient studies), or the size of the effect I'm assessing.;;;;1;
+168;387;Effect size;;;;;
+169;391;I do not conduct empirical research.;;;;;
+170;393;i work with large (N= 10000 plus) routine practice datasets , therefore sample size is rarely an issue;;;;;
+171;395;varies;;;;;
+172;396;feasibility of recruiting participants, design of the study, type of analyses that will be conducted etc.;;;;1;
+173;397;Use a rule of thumb of 50 per condition;;;1;;
+174;399;availability and sample size calculation (power);1;;;1;
+175;402;For the effects that I typically study, I know that 24 to 36 participants per condition is reasonable. I base the exact number of participants upon the number of variables that need to be counterbalanced (to ensure that there are an equal number of people in each counterbalanced condition). ;;;1;;
+176;407;I have basic rules of thumb born out of experience in my area. Sometimes will do power analyses.;1;;1;;
+177;410;I look to other, similar studies, or to my own past work and calculate the number of participants necessary to achieve power =.80 given alpha =.05.;1;1;;;
+178;412;Based on previous similar studies, samples availability, and rough estimate of the effect size ;;1;;1;
+179;415;the minimal sample size is usually determined by considering the size of the effects of interest;;;;;
+180;418;My research is largely focused on a longitudinal sample, so the sample size is determined the number of participants who have been retained across the years. ;;;;1;
+181;420; Based on information from previous studies;;1;;;
+182;422;I aim to get around 40 participants for each condition. For correlational studies, I will try to get at least 100 participants.;;;1;;
+183;427;Power calculations;1;;;;
+184;429;for one session exp.--> N>=30, for trainingstudies smaller sample size ok when session 10 or higher;;;1;;
+185;430;literature, expected size of effect.;;1;;;
+186;431;Comparison to other studies, experience with comparable experiments, pilot experiments.;;1;;;
+187;432;As I normally do correlation-based studies (e.g., individual differences), a sample size of more than 150 is preferred.  If I conduct experiments, then each experimental cell should have at least 25 participants.  That would work out to be at 100 in a 2x2 design.;;;1;;
+188;437;Until now it has been kind of ad hoc - but recently we started computing the power of our studies to support decisions concerning sample size  ;1;;;;
+189;446;power analysis;1;;;;
+190;450;By number of conditions;;;;;
+191;453;based on results of previous studies. No I have one longitudinal study.;;1;;;
+192;457;lot of knowledge (practical skills, missing data), sometimes a test for effect sizes;;;;;
+193;470;"""the more the better""  Anything under a thousand is too small.";;;;;1
+194;474;practical considerations pluis consideration of effect size;;;;1;
+195;487;by using the effect size AND by looking at the numbers used by previous researchers;;1;;;
+196;488;I have been focused on comparative studies which cover practically all countries of the world.;;;;1;
+197;493;depending on the sample size of other studies on the same topic;;1;;;
