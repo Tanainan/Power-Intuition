@@ -234,13 +234,12 @@ bi <- round(tmean(dat$Bias,na.rm=T), 2)	#bias (individual)
 reportObject <- reproCheck(reportedValue = '-0.34', obtainedValue = bi, valueType = 'other')
 ##
 
-# Response origin ---------------------------------------------------------
-as.character(dat$Q1_C1[10])
-
 # Calculated power --------------------------------------------------------
-# Power for n = 20-25
+# Power for n = 20-25 ###############
 power.t.test(n = 20, d = .5)
 power.t.test(n = 25, d = .5)
+############
+
 
 # % Do not conduct power analyses
 round(sum(dat$PowMen == 0) / length(dat$PowMen), 2)
