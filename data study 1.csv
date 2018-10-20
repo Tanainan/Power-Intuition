@@ -1,0 +1,500 @@
+Condition,Finished,Q1_C1,Q2_C1,Q3_C1,Q4_C1,Q5_C1,Q6_C1,Q7_C1_v1,Q7_C1_v2,Q1_C2,Q2_C2,Q3_C2,Q4_C2,Q5_C2,Q6_C2,Q7_C2_v1,Q7_C2_v2,Q8,Q9,Q10,PowerC1,PowerC2,BiasC1,BiasC2,Q3,Q4,Q5,Q6,Power,Bias,PowMen
+1,1,Power analysis ,4,0.05,0.8,0.3,50,NA,2,,NA,NA,NA,NA,NA,NA,NA,1,8,3,0.317802205,NA,-0.482197795,NA,0.05,0.8,0.3,50,0.317802205,-0.482197795,1
+1,1,I will use a power analysis or go with the at-least-30-participants-per-condition rule.,3,0.05,0.8,0.5,30,NA,3,,NA,NA,NA,NA,NA,NA,NA,10,7,1,0.477896521,NA,-0.322103479,NA,0.05,0.8,0.5,30,0.477896521,-0.322103479,1
+1,1,"The design of the experiment; the time of year (i.e., end of the semester);",4,0.05,0.7,0.2,25,3,NA,,NA,NA,NA,NA,NA,NA,NA,10,8,1,0.106581448,NA,-0.593418552,NA,0.05,0.7,0.2,25,0.106581448,-0.593418552,0
+2,1,,NA,NA,NA,NA,NA,NA,NA,Based on power analysis and feasibility constraints with any given population,3,0.05,0.8,0.5,25,3,NA,1,5,4,NA,0.410100332,NA,-0.389899668,0.05,0.8,0.5,25,0.410100332,-0.389899668,0
+1,1,,3,0.09,0.5,0.4,30,3,NA,,NA,NA,NA,NA,NA,NA,NA,10,6,1,0.434933484,NA,-0.065066516,NA,0.09,0.5,0.4,30,0.434933484,-0.065066516,0
+1,1,Statistical power,4,0.05,0.8,0.2,200,3,NA,,NA,NA,NA,NA,NA,NA,NA,5,7,6,0.514081637,NA,-0.285918363,NA,0.05,0.8,0.2,200,0.514081637,-0.285918363,1
+1,1,,4,0.05,0.7,0.4,35,NA,3,,NA,NA,NA,NA,NA,NA,NA,1,7,6,0.37833074,NA,-0.32166926,NA,0.05,0.7,0.4,35,0.37833074,-0.32166926,0
+1,1,"I adopt the rule of thumb to try to guarantee at least 30 subjects per condition. Though, where possible I try together data from as many subjects as are available.",4,0.07,0.9,0.4,30,NA,3,,NA,NA,NA,NA,NA,NA,NA,8,5,2,0.388376495,NA,-0.511623505,NA,0.07,0.9,0.4,30,0.388376495,-0.511623505,0
+1,1,"Power analysis in advance, before I recruit my participants.",4,0.05,0.8,0.2,60,3,NA,,NA,NA,NA,NA,NA,NA,NA,3,8,1,0.192374646,NA,-0.607625354,NA,0.05,0.8,0.2,60,0.192374646,-0.607625354,1
+1,1,"I usually aim for 20 - 25 participants per cell of the experimental design, which is typically what it takes to detect a medium effect size with .80 probability.  My answer to the next question is based on the assumption that the experiment would be a standard two-cell design.",3,0.05,0.8,0.4,25,3,NA,,NA,NA,NA,NA,NA,NA,NA,10,7,4,0.28339873,NA,-0.51660127,NA,0.05,0.8,0.4,25,0.28339873,-0.51660127,0
+1,1,"By a practical balance with practical constraints (i.e. available founding), and expected sample size to detect the effect of interest. ",4,0.05,0.8,0.05,75,3,NA,,NA,NA,NA,NA,NA,NA,NA,8,9,5,0.060667132,NA,-0.739332868,NA,0.05,0.8,0.05,75,0.060667132,-0.739332868,0
+2,1,,NA,NA,NA,NA,NA,NA,NA,,4,0.7,0.8,0.2,60,NA,2,10,5,2,NA,0.830459994,NA,0.030459994,0.7,0.8,0.2,60,0.830459994,0.030459994,0
+1,1,Power analysis such that I have an 80% chance or better of detecting my target effect size. ,4,0.9,0.8,0.4,40,3,NA,,NA,NA,NA,NA,NA,NA,NA,10,8,3,0.979636947,NA,0.179636947,NA,0.9,0.8,0.4,40,0.979636947,0.179636947,1
+1,1,"power analysis, pre-experiments",3,0.05,0.8,0.5,16,3,NA,,NA,NA,NA,NA,NA,NA,NA,7,5,3,0.277744524,NA,-0.522255476,NA,0.05,0.8,0.5,16,0.277744524,-0.522255476,1
+1,1,"Power analysis, or look at how much data is required in order to get stable parameter estimates for the model of interest.",4,0.01,0.8,0.5,95,NA,3,,NA,NA,NA,NA,NA,NA,NA,9,7,3,0.799468851,NA,-0.000531149,NA,0.01,0.8,0.5,95,0.799468851,-0.000531149,1
+1,1,Power Analysis and examination of what is done in published research studies on the same topic.,4,0.05,0.8,0.5,35,1,NA,,NA,NA,NA,NA,NA,NA,NA,8,7,6,0.540687916,NA,-0.259312084,NA,0.05,0.8,0.5,35,0.540687916,-0.259312084,1
+2,1,,NA,NA,NA,NA,NA,NA,NA,"I look at whether there's a power analysis, and the power analysis was appropriately done (not coming up with a tortured justification for as small a sample size as possible)",4,0.05,0.8,0.4,100,3,NA,8,8,5,NA,0.803647504,NA,0.003647504,0.05,0.8,0.4,100,0.803647504,0.003647504,0
+1,1,"My ideal N is always based on an estimate of the effect size, and the alpha and beta errors I consider as adequate. The actual N however is often smaller due to restrictions in terms of participant money, participants available and lab space. ",2,0.05,0.8,0.5,40,3,NA,,NA,NA,NA,NA,NA,NA,NA,10,8,5,0.598146901,NA,-0.201853099,NA,0.05,0.8,0.5,40,0.598146901,-0.201853099,1
+2,1,,NA,NA,NA,NA,NA,NA,NA,"Recently, journal published by the Psychonomic Society requires that submitted papers include a power analysis. I think that is a very wise decision; as a reviewer I take critical look at the power calculation (if such a calculation is available). In addition, it would be good if researchers could focus on the desired precision of the effect they are going to estimate in their study (see Geff Cumming). ",4,0.05,0.8,0.3,50,NA,3,2,8,4,NA,0.317802205,NA,-0.482197795,0.05,0.8,0.3,50,0.317802205,-0.482197795,0
+1,1,I use secondary  data analysis of large-scale longitudinal data (N >5000) for virtually all my research,4,0.05,0.85,0.4,100,3,NA,,NA,NA,NA,NA,NA,NA,NA,1,4,3,0.803647504,NA,-0.046352496,NA,0.05,0.85,0.4,100,0.803647504,-0.046352496,0
+2,1,,NA,NA,NA,NA,NA,NA,NA,"There is no easy answer. This depends on the kind of study, the methods, the design, the field, the subject looked at, and the aim of the study. E.g. a clinical study assessing a rare desease could be great with only 10 participants, while for a simple questionnaire in a wide field 100 participants might be not enough.  /  / The same answer holds true for your next question: The ""between subjects design"" does not tell me enough of the background of the study/studies to decide. I am very sorry that I have to give an answer-therefore please consider this answer as ""not given""!",4,0,0,0,0,NA,4,2,3,1,NA,NA,NA,NA,0,0,0,0,NA,NA,0
+2,1,,NA,NA,NA,NA,NA,NA,NA,,4,0.05,0.8,0.5,20,3,NA,10,7,5,NA,0.337939029,NA,-0.462060971,0.05,0.8,0.5,20,0.337939029,-0.462060971,0
+1,1,"I typically conduct an a prior power analysis. From there I collect as many subjects as I can. I work at a small university, so this often takes multiple semesters. Additionally, I do look at my data at the end of each semester and, if minimum sample sizes have been reached (at least n = 20 per cell) and the effects I am looking for are there, I will stop data collection.",1,0.05,0.8,0.3,20,NA,3,,NA,NA,NA,NA,NA,NA,NA,10,7,2,0.15226828,NA,-0.64773172,NA,0.05,0.8,0.3,20,0.15226828,-0.64773172,1
+1,1,power analysis evt. based on pilot study / ,2,0.5,0.9,0.5,10,3,NA,,NA,NA,NA,NA,NA,NA,NA,2,7,4,0.705810426,NA,-0.194189574,NA,0.5,0.9,0.5,10,0.705810426,-0.194189574,1
+1,1,Using the convention established by others,3,0.05,0.8,0.3,30,NA,2,,NA,NA,NA,NA,NA,NA,NA,10,7,1,0.207851772,NA,-0.592148228,NA,0.05,0.8,0.3,30,0.207851772,-0.592148228,0
+2,1,,NA,NA,NA,NA,NA,NA,NA,"Depending on the design of the study, using categorical or continuous variables, I assess N < 20 (per cell) as a small sample size.",3,0.05,0.8,0.04,20,NA,3,6,7,2,NA,0.05174411,NA,-0.74825589,0.05,0.8,0.04,20,0.05174411,-0.74825589,0
+2,1,,NA,NA,NA,NA,NA,NA,NA,"I look at A) whether it meets field-accepted standards (e.g. 16 per cell in infant work), B) at measures of variability, e.g. SD, C) at measures of estimate precision (SEM/95% CI), and at ability to fit the appropriate model (e.g. regression). ",3,0.05,0.8,0.6,32,3,NA,3,8,3,NA,0.656434709,NA,-0.143565291,0.05,0.8,0.6,32,0.656434709,-0.143565291,0
+1,1,I have tried to replicate the higher sample size used in similar studies,4,0.5,0.05,0.8,100,NA,3,,NA,NA,NA,NA,NA,NA,NA,8,6,2,0.999999681,NA,0.949999681,NA,0.5,0.05,0.8,100,0.999999681,0.949999681,0
+2,1,,NA,NA,NA,NA,NA,NA,NA,"By looking at the N, the p-value and the effect size.",1,0.05,0.75,0.35,25,3,NA,6,7,2,NA,0.22822489,NA,-0.52177511,0.05,0.75,0.35,25,0.22822489,-0.52177511,0
+1,1,"Power, availability, past levels of attrition. ",4,0.05,0.8,0.15,200,NA,1,,NA,NA,NA,NA,NA,NA,NA,8,9,3,0.321747078,NA,-0.478252922,NA,0.05,0.8,0.15,200,0.321747078,-0.478252922,1
+1,1,I work with large available databases and based on the research question I conduct a power analysis,3,0.05,0.8,0.2,500,NA,3,,NA,NA,NA,NA,NA,NA,NA,7,8,6,0.884788506,NA,0.084788506,NA,0.05,0.8,0.2,500,0.884788506,0.084788506,1
+2,1,,NA,NA,NA,NA,NA,NA,NA,"I try to estimate a reasonable effect size from the literature and then see if the sample size in question had a reasonable chance of detecting that effect.  All other things being equal, a correlation of .20 is not a bad point estimate.  So hopefully the sample could detect that size correlation.  I get nervous about complex interactions and would like to see much larger samples than most people use.",4,0.05,0.8,0.4,100,NA,3,8,4,6,NA,0.803647504,NA,0.003647504,0.05,0.8,0.4,100,0.803647504,0.003647504,0
+2,1,,NA,NA,NA,NA,NA,NA,NA,"I think sample size is rather a quantitative aspect than a qualitative, in the sense that a larger sample is more likely to provide conclusive evidence. I would even favour a smaller study, if the overall design is better. For example in many contexts, a representative sample of 200 is clearly prefereable to a convenience sample (say of university students) of size 400. /  / In general, I would base all sample size considerations on a priori power calculations. /  / PS: the second question is a bit confusing. Do you mean ""5 arms"" when you mean ""5 studies""? Or do you mean ""5 replications"" of the same experiment? I took it to mean ""5 studies"" in the sense of independent replications like in a meta-analysis.",2,0.05,0.8,0.5,30,NA,3,9,8,2,NA,0.477896521,NA,-0.322103479,0.05,0.8,0.5,30,0.477896521,-0.322103479,0
+2,1,,NA,NA,NA,NA,NA,NA,NA,"It depends on the journal and the amount of information provided. IN journals like Psych Science, it is impossible to assess it - I base it on the general norms in the field.",3,0.05,0.5,0.3,40,3,NA,10,7,2,NA,0.263283556,NA,-0.236716444,0.05,0.5,0.3,40,0.263283556,-0.236716444,0
+1,1,"I carry out simulations, rather than with individuals. The simple size should be as large as posible; power analysis are relevant for statistical signifcance only, but not for effect sizes.",3,0.05,0.8,0.5,30,3,NA,,NA,NA,NA,NA,NA,NA,NA,9,9,3,0.477896521,NA,-0.322103479,NA,0.05,0.8,0.5,30,0.477896521,-0.322103479,1
+1,1,"Experimental studies with expected large effects, I normally choose n = 20 per cell.  For moderate effects, I normally choose n = 30 per cell.  For correlational studies, I normally aim for at least 100 participants.",2,0.05,0.8,0.6215983,20,3,NA,,NA,NA,NA,NA,NA,NA,NA,10,8,3,0.482480394,NA,-0.317519606,NA,0.05,0.8,0.6215983,20,0.482480394,-0.317519606,0
+2,1,,NA,NA,NA,NA,NA,NA,NA,"If information is provided on the estimated size of the effect that the study is testing (which it almost never is), I assess the sample relative to the N needed to find effects of that size.  I also assess the sample in the context of the type of study.  For example, for a questionnaire study on undergrads I would expect a much larger sample size than a 2-year longitudinal fMRI study on anxious children (b/c it's harder to get/retain participants over time, it's harder to get anxious children, and the cost of fMRI is higher).  The reason I do so is that, for some study types, it would be prohibitive to get the large sample size that we'd all like.  Thus, for this research to be done at all, I think we can accept a lower standard.  In addition, b/c the cost of such studies is so high (even for small samples), it tends to exclude more junior researchers (b/c only established researchers with large grants have the resources).   /  / For the sake of transparency, I should note that I'm a junior researcher who studies clinical populations and adolescents with fMRI (and sometime longitudinally).  ",3,0.05,0.8,0.8,20,3,NA,1,9,3,NA,0.693404197,NA,-0.106595803,0.05,0.8,0.8,20,0.693404197,-0.106595803,0
+1,1,,3,0.05,0.8,0.5,25,NA,2,,NA,NA,NA,NA,NA,NA,NA,10,5,1,0.410100332,NA,-0.389899668,NA,0.05,0.8,0.5,25,0.410100332,-0.389899668,0
+1,1,Based first on effect size and power which can usually be found in prior research published. Second consideration is feasibility which factors in recruitment timetable and cost.,4,0.05,0.95,0.2,35,3,NA,,NA,NA,NA,NA,NA,NA,NA,1,5,2,0.130849707,NA,-0.819150293,NA,0.05,0.95,0.2,35,0.130849707,-0.819150293,1
+1,1,,4,0.05,0.8,0.2,25,3,NA,,NA,NA,NA,NA,NA,NA,NA,2,5,2,0.106581448,NA,-0.693418552,NA,0.05,0.8,0.2,25,0.106581448,-0.693418552,0
+1,1,Power analysis,4,0.05,0.8,0.5,64,3,NA,,NA,NA,NA,NA,NA,NA,NA,10,5,6,0.801459558,NA,0.001459558,NA,0.05,0.8,0.5,64,0.801459558,0.001459558,1
+1,1,"Use G*Power to determine the sample size large enough to detect the ""average"" effect size in social/personality research, i.e. .3. ",4,0.05,0.8,0.3,150,NA,3,,NA,NA,NA,NA,NA,NA,NA,10,7,2,0.735567431,NA,-0.064432569,NA,0.05,0.8,0.3,150,0.735567431,-0.064432569,1
+2,1,,NA,NA,NA,NA,NA,NA,NA,"it mainly depends on the sample characteristics: more is (almost always) better, but that may be more difficult with certain populations or certain research designs.",3,0.05,0.8,0.2,30,NA,4,3,7,2,NA,0.118679436,NA,-0.681320564,0.05,0.8,0.2,30,0.118679436,-0.681320564,0
+1,1,In advance based on previous research indicative of likely effect sizes,3,0.05,0.85,0.4,50,3,NA,,NA,NA,NA,NA,NA,NA,NA,10,7,5,0.508185735,NA,-0.341814265,NA,0.05,0.85,0.4,50,0.508185735,-0.341814265,0
+2,1,,NA,NA,NA,NA,NA,NA,NA,Compare it to similar studies & take into account the sample size requirements of the respective statistical analyses,3,0.05,0.3,0.4,40,3,NA,8,6,1,NA,0.423521152,NA,0.123521152,0.05,0.3,0.4,40,0.423521152,0.123521152,0
+2,1,,NA,NA,NA,NA,NA,NA,NA,Based on rules of thumb and common sense.,3,0.05,0.5,0.3,20,NA,3,8,8,2,NA,0.15226828,NA,-0.34773172,0.05,0.5,0.3,20,0.15226828,-0.34773172,0
+1,1,"In the past, I have always assumed at least 100 participants. Now I shoot for that number.",4,0.05,0.8,0.5,35,NA,3,,NA,NA,NA,NA,NA,NA,NA,8,6,3,0.540687916,NA,-0.259312084,NA,0.05,0.8,0.5,35,0.540687916,-0.259312084,0
+1,1,"I target N = 200 if I can get it; try not to fall below 120. These numbers, I have found, offer sufficient power to detect effects at p < .05 that are also of practical significance in the areas in which I do research.",4,0.05,0.7,0.4,20,NA,3,,NA,NA,NA,NA,NA,NA,NA,6,8,3,0.234349401,NA,-0.465650599,NA,0.05,0.7,0.4,20,0.234349401,-0.465650599,0
+1,1,I perform a-priori power analyses,4,0.05,0.6,0.2,50,NA,2,,NA,NA,NA,NA,NA,NA,NA,6,7,3,0.167675486,NA,-0.432324514,NA,0.05,0.6,0.2,50,0.167675486,-0.432324514,1
+1,1,"It is usually based on how many participants we manage to get based on our available resources, such as the availability of credit subjects and funding.",3,0.05,0.95,0.5,20,NA,2,,NA,NA,NA,NA,NA,NA,NA,10,4,1,0.337939029,NA,-0.612060971,NA,0.05,0.95,0.5,20,0.337939029,-0.612060971,0
+1,1,Most usually by reference to previous studies using the same or similar paradigms.,4,0.05,0.8,0.5,12,NA,2,,NA,NA,NA,NA,NA,NA,NA,2,7,5,0.216143073,NA,-0.583856927,NA,0.05,0.8,0.5,12,0.216143073,-0.583856927,0
+1,1,,2,0.05,0.8,0.25,20,4,NA,,NA,NA,NA,NA,NA,NA,NA,10,6,1,0.120335368,NA,-0.679664632,NA,0.05,0.8,0.25,20,0.120335368,-0.679664632,0
+1,1,,4,0.05,0.8,0.5,25,3,NA,,NA,NA,NA,NA,NA,NA,NA,6,9,5,0.410100332,NA,-0.389899668,NA,0.05,0.8,0.5,25,0.410100332,-0.389899668,0
+2,1,,NA,NA,NA,NA,NA,NA,NA,"The weaker the effect the higher the sample size must be. If authors report a clear significant effect, n = 20 is sufficient.  ",3,0.05,0.7,0.4,20,NA,3,2,7,2,NA,0.234349401,NA,-0.465650599,0.05,0.7,0.4,20,0.234349401,-0.465650599,0
+2,1,,NA,NA,NA,NA,NA,NA,NA,"I consider a number of factors--effect sizes, measurement quality and reliability, and type of analysis. I also consider whether the authors are making strong or weak empirical claims, whether they are reporting new effects versus replications, and whether they are focusing on significant or non-significant tests (e.g., ruling out a certain effect).",4,0.05,0.7,0.4,50,NA,3,3,8,4,NA,0.508185735,NA,-0.191814265,0.05,0.7,0.4,50,0.508185735,-0.191814265,0
+2,1,,NA,NA,NA,NA,NA,NA,NA,,3,0.05,0.8,0.3,85,NA,3,3,8,3,NA,0.493908188,NA,-0.306091812,0.05,0.8,0.3,85,0.493908188,-0.306091812,0
+2,1,,NA,NA,NA,NA,NA,NA,NA,yes,1,0.05,0.2,0.3,16,NA,1,3,5,2,NA,0.130191369,NA,-0.069808631,0.05,0.2,0.3,16,0.130191369,-0.069808631,0
+1,1,I make a quick calculation but our sample sizes are also influenced by the availability of the participants that we need,3,0.05,0.8,0.5,30,3,NA,,NA,NA,NA,NA,NA,NA,NA,1,5,2,0.477896521,NA,-0.322103479,NA,0.05,0.8,0.5,30,0.477896521,-0.322103479,1
+1,1,Either a power analysis based on earlier studies that used the same experiment or the same sample size as in earlier studies that used the same manipulation (for instance pharmacological challenge).,3,0.05,0.8,0.5,32,3,NA,,NA,NA,NA,NA,NA,NA,NA,7,7,3,0.503638167,NA,-0.296361833,NA,0.05,0.8,0.5,32,0.503638167,-0.296361833,1
+2,1,,NA,NA,NA,NA,NA,NA,NA,standard deviations and standard errors compared to what I'd expect for reasonable differences between means given the tested theory,4,0.05,0.8,0.5,100,NA,3,2,8,5,NA,0.940427204,NA,0.140427204,0.05,0.8,0.5,100,0.940427204,0.140427204,0
+2,1,,NA,NA,NA,NA,NA,NA,NA,"For between-subject designs are sample should not be too small (<50), but replication within one study is better than a higher total sample",3,0.05,0.8,0.3,50,3,NA,8,8,4,NA,0.317802205,NA,-0.482197795,0.05,0.8,0.3,50,0.317802205,-0.482197795,0
+1,1,Guidelines and sample size calculation (GPower),4,0.05,0.8,0.5,10,1,NA,,NA,NA,NA,NA,NA,NA,NA,3,7,2,0.185095656,NA,-0.614904344,NA,0.05,0.8,0.5,10,0.185095656,-0.614904344,1
+1,1,power analysis ,4,0.05,0.8,0.13,40,NA,3,,NA,NA,NA,NA,NA,NA,NA,5,7,1,0.088552015,NA,-0.711447985,NA,0.05,0.8,0.13,40,0.088552015,-0.711447985,1
+1,1,,1,0.5,0.5,0.05,20,3,NA,,NA,NA,NA,NA,NA,NA,NA,10,6,3,0.505298155,NA,0.005298155,NA,0.5,0.5,0.05,20,0.505298155,0.005298155,0
+1,1,"If designing a fresh study, try to have a min of 200 participants, which provides 80% power to detect an effect comparable to a correlation of .20. In web studies, we typically just leave a survey/study online until we're ready to deal with it. This leads to variable (and large) sample sizes, but the number isn't pre-determined. In many studies we're analyzing data from longitudinal datasets not designed by our team; we have no control over those N's. ",4,0.05,0.8,0.4,100,NA,3,,NA,NA,NA,NA,NA,NA,NA,8,7,5,0.803647504,NA,0.003647504,NA,0.05,0.8,0.4,100,0.803647504,0.003647504,0
+1,1,With help from Statisticians,4,0.95,0.8,0.5,50,3,NA,,NA,NA,NA,NA,NA,NA,NA,10,6,2,0.99779401,NA,0.19779401,NA,0.95,0.8,0.5,50,0.99779401,0.19779401,0
+2,1,,NA,NA,NA,NA,NA,NA,NA,Haven't reviewed,3,0.05,0.85,0.2,20,3,NA,3,7,1,NA,0.094567328,NA,-0.755432672,0.05,0.85,0.2,20,0.094567328,-0.755432672,0
+1,1,"Because I study Latino issues, recruiting participants and retaining them is always an issue. I have used power analyses to calculate sample size in the past, but I have also just try my best to recruit at least over 200 participants and collect rich data that can add to the current literature and hope that a journal will see the significance of the study. ",4,0.05,0.8,0.2,25,NA,3,,NA,NA,NA,NA,NA,NA,NA,3,6,3,0.106581448,NA,-0.693418552,NA,0.05,0.8,0.2,25,0.106581448,-0.693418552,1
+2,1,,NA,NA,NA,NA,NA,NA,NA,"power analysis, assumed effect size ",4,0.05,0.8,0.3,90,3,NA,1,6,4,NA,0.516641647,NA,-0.283358353,0.05,0.8,0.3,90,0.516641647,-0.283358353,0
+2,1,,NA,NA,NA,NA,NA,NA,NA,Power analysis if possible,3,0.01,0.8,0.35,20,3,NA,1,6,6,NA,0.064838056,NA,-0.735161944,0.01,0.8,0.35,20,0.064838056,-0.735161944,0
+1,1,"based on recent research using a similar design.  / Note that we use expensive fMRI. So my aswer to the next question is none of these options. We plan a single fMRI study with 25 participatns within (if between which occurs seldom, we would use 20 in each condition). Please ignore my aswer, I have to fill in to continue",1,0.05,0.99999,99999,25,4,NA,,NA,NA,NA,NA,NA,NA,NA,7,7,5,1,NA,1.00E-05,NA,0.05,0.99999,99999,25,1,1.00E-05,0
+2,1,,NA,NA,NA,NA,NA,NA,NA,,2,0.05,0.8,0.3,20,3,NA,3,9,6,NA,0.15226828,NA,-0.64773172,0.05,0.8,0.3,20,0.15226828,-0.64773172,0
+1,1,Power analysis,4,0.05,0.8,0.3,100,3,NA,,NA,NA,NA,NA,NA,NA,NA,1,7,5,0.560059254,NA,-0.239940746,NA,0.05,0.8,0.3,100,0.560059254,-0.239940746,1
+2,1,,NA,NA,NA,NA,NA,NA,NA,,3,0.05,0.8,0.35,40,3,NA,1,7,3,NA,0.339673132,NA,-0.460326868,0.05,0.8,0.35,40,0.339673132,-0.460326868,0
+1,1,"I base on the experimental conditions, using the heuristic of  at least 20 participants per cell. For example, for a 2x2, I would need at least 80 participants.",3,0.05,0.8,0.7,25,NA,4,,NA,NA,NA,NA,NA,NA,NA,10,4,1,0.679094328,NA,-0.120905672,NA,0.05,0.8,0.7,25,0.679094328,-0.120905672,0
+2,1,,NA,NA,NA,NA,NA,NA,NA,,2,0.05,0.5,0.05,25,NA,2,2,4,4,NA,0.053446177,NA,-0.446553823,0.05,0.5,0.05,25,0.053446177,-0.446553823,0
+2,1,,NA,NA,NA,NA,NA,NA,NA,"When non-significance is taken to invalidate hypotheses, I guesstimate the power of the study and when unclear ask authors to consider power more carefully.",4,0.05,0.8,0.35,30,NA,1,10,8,3,NA,0.265884089,NA,-0.534115911,0.05,0.8,0.35,30,0.265884089,-0.534115911,0
+1,1,"No formal power analysis.  I select a sample size usually based on my past experience of what size sample is necessary for either (a) finding significance with an effect size in the range of r = .20 to .25, or (b) conducting the type of analysis that is plannec (i.e. about N = 300 for exploratory factor analysis).",4,0.05,0.6,0.5,50,NA,3,,NA,NA,NA,NA,NA,NA,NA,4,8,4,0.696893406,NA,0.096893406,NA,0.05,0.6,0.5,50,0.696893406,0.096893406,0
+2,1,,NA,NA,NA,NA,NA,NA,NA,the bigger the better.,3,0.0499,0.8,0.3,30,3,NA,8,6,3,NA,0.207599804,NA,-0.592400196,0.0499,0.8,0.3,30,0.207599804,-0.592400196,0
+1,1,"According to common practices in the field, and power analysis. ",4,0.05,0.8,0.6,50,3,NA,,NA,NA,NA,NA,NA,NA,NA,1,7,4,0.843875422,NA,0.043875422,NA,0.05,0.8,0.6,50,0.843875422,0.043875422,1
+2,1,,NA,NA,NA,NA,NA,NA,NA,"As a trade-off.   /  / I generally prefer larger sample sizes, since there is a lower risk of the study capitalizing on chance.  With large sample sizes, you can look at whether the effect size (likely with a narrower CI around the point) is substantial or trivial, and worry less about whether it hits a magic threshold value of p. /  / However, I understand that in my field (organizational psychology), there are often hard-to-reach, real-world populations.  I am not going to reject a paper that has 80 CEOs as experimental participants simply because it's a bit underpowered.  I think this is where it is nice to pair cheap, easy participants (a very large mTurk sample, or a huge intro-psych-pool sample) to demonstrate the effect, then replicate it with a smaller sample of the population of interest. /  / In complete honesty as a reviewer, though, sample size doesn't often figure heavily in my review.  On occasion, I've fired up g*Power and noted something about the achieved power, especially if there's a surprisingly tiny cell size in a design that might be expected to have small effect sizes... but it doesn't come up too frequently.",4,0.05,0.8,0.02,30,3,NA,6,3,1,NA,0.050665149,NA,-0.749334851,0.05,0.8,0.02,30,0.050665149,-0.749334851,0
+2,1,,NA,NA,NA,NA,NA,NA,NA,"Typically by Simonsohn's rules about cell size; if correlational, usually want to see at least N of 150. Typically unconvinced by single study papers, though. / ",3,0.05,0.8,0.4,30,NA,3,10,7,3,NA,0.331521679,NA,-0.468478321,0.05,0.8,0.4,30,0.331521679,-0.468478321,0
+2,1,,NA,NA,NA,NA,NA,NA,NA,really depends,3,0.05,0.8,0.35,40,NA,3,9,8,3,NA,0.339673132,NA,-0.460326868,0.05,0.8,0.35,40,0.339673132,-0.460326868,0
+1,1,A prior power analysis based on estimated or published effect sizes.,4,0.2,0.8,0.5,30,NA,3,,NA,NA,NA,NA,NA,NA,NA,3,7,4,0.739966072,NA,-0.060033928,NA,0.2,0.8,0.5,30,0.739966072,-0.060033928,1
+1,1,,3,0.05,0.85,0.5,25,3,NA,,NA,NA,NA,NA,NA,NA,NA,10,6,4,0.410100332,NA,-0.439899668,NA,0.05,0.85,0.5,25,0.410100332,-0.439899668,0
+1,1,Power analysis,3,0.05,0.2,0.3,50,3,NA,,NA,NA,NA,NA,NA,NA,NA,8,7,2,0.317802205,NA,0.117802205,NA,0.05,0.2,0.3,50,0.317802205,0.117802205,1
+1,1,Availability and power analysis. Our research focuses on cancer patients so there is often a limit as to how many we can recruit/enroll in a specific time frame.,4,0.95,0.8,0.35,0,3,NA,,NA,NA,NA,NA,NA,NA,NA,5,7,3,NA,NA,NA,NA,0.95,0.8,0.35,0,NA,NA,1
+2,1,,NA,NA,NA,NA,NA,NA,NA,Depending on expected magnitude of effect ,3,0.05,0.35,0.2,20,3,NA,8,6,2,NA,0.094567328,NA,-0.255432672,0.05,0.35,0.2,20,0.094567328,-0.255432672,0
+1,1,As much as time and funding allow,4,0.05,0.8,0.3,20,NA,3,,NA,NA,NA,NA,NA,NA,NA,3,7,4,0.15226828,NA,-0.64773172,NA,0.05,0.8,0.3,20,0.15226828,-0.64773172,0
+2,1,,NA,NA,NA,NA,NA,NA,NA,Usually I base it on norms for the particular kind of study with some pragmatic issues taken into consideration.,3,0.05,0.5,0.2,25,NA,3,10,3,3,NA,0.106581448,NA,-0.393418552,0.05,0.5,0.2,25,0.106581448,-0.393418552,0
+1,1,"Estimate the likely sample size needed based on previous studies/samples using similar designs, measures, and topics",4,0.05,0.8,0.05,60,4,NA,,NA,NA,NA,NA,NA,NA,NA,1,8,3,0.058495065,NA,-0.741504935,NA,0.05,0.8,0.05,60,0.058495065,-0.741504935,0
+1,1,"general rules of thumb e.g., at least 25 to 30 participants in each condition for an experimental study",4,0.05,0.8,0.2,30,NA,1,,NA,NA,NA,NA,NA,NA,NA,6,7,2,0.118679436,NA,-0.681320564,NA,0.05,0.8,0.2,30,0.118679436,-0.681320564,0
+1,1,"Power analyses or conventional ""rules of thumb"" depending on the type of study done. ",4,0.05,0.8,0.3,100,NA,3,,NA,NA,NA,NA,NA,NA,NA,8,8,5,0.560059254,NA,-0.239940746,NA,0.05,0.8,0.3,100,0.560059254,-0.239940746,1
+1,1,Power analyses,4,0.05,0.85,0.6,40,NA,3,,NA,NA,NA,NA,NA,NA,NA,8,8,6,0.754951566,NA,-0.095048434,NA,0.05,0.85,0.6,40,0.754951566,-0.095048434,1
+1,1,Power analysis.,4,0.1,0.8,0.3,50,3,NA,,NA,NA,NA,NA,NA,NA,NA,1,7,3,0.439185953,NA,-0.360814047,NA,0.1,0.8,0.3,50,0.439185953,-0.360814047,1
+2,1,,NA,NA,NA,NA,NA,NA,NA,"It is typically based upon what precisely the researchers are doing--and what the research goals are. I do tend to balk if the number of participants per cell is lower than 20, but with many different potential cells I am more open to so variation especailly is subsequent studies are able to replicate any hypothesized effect with a larger sample size per cell. ",4,0.1,0.7,0.3,50,3,NA,6,6,3,NA,0.439185953,NA,-0.260814047,0.1,0.7,0.3,50,0.439185953,-0.260814047,0
+2,1,,NA,NA,NA,NA,NA,NA,NA,A sample size with fewer than 20 participants per cell causes concern. Consistent sample sizes throughout the paper of fewer than 30 per cell triggers concern.,3,0.05,0.8,0.3,30,NA,3,10,6,2,NA,0.207851772,NA,-0.592148228,0.05,0.8,0.3,30,0.207851772,-0.592148228,0
+1,1,Power analysis.,4,0.05,0.8,0.2,40,NA,2,,NA,NA,NA,NA,NA,NA,NA,3,7,2,0.143080304,NA,-0.656919696,NA,0.05,0.8,0.2,40,0.143080304,-0.656919696,1
+2,1,,NA,NA,NA,NA,NA,NA,NA,"1) Start out with a rule of thumb.. at least 20 participants per group if it's a clinical sample / 2) After that, I look at effect sizes/power",2,0.05,0.8,0.5,20,NA,3,1,4,2,NA,0.337939029,NA,-0.462060971,0.05,0.8,0.5,20,0.337939029,-0.462060971,0
+1,1,"By a standard rule of thumb, I typically shoot for 150+. If I'm doing cross-cultural research or research with different populations, I shoot for 150 participants for every group.",4,0.2,0.8,0.45,50,3,NA,,NA,NA,NA,NA,NA,NA,NA,3,8,2,0.831430714,NA,0.031430714,NA,0.2,0.8,0.45,50,0.831430714,0.031430714,0
+1,1,"Based on 1) the N that similar studies (from my lab and others) have reported, and 2) a multiple of the number of participants needed to correctly counterbalance the order of trials. ",2,0.05,0.8,1,16,2,NA,,NA,NA,NA,NA,NA,NA,NA,3,8,2,0.781397792,NA,-0.018602208,NA,0.05,0.8,1,16,0.781397792,-0.018602208,0
+1,1,A-priori statistical power analysis.,4,0.05,0.8,0.5,51,NA,3,,NA,NA,NA,NA,NA,NA,NA,8,9,2,0.705612581,NA,-0.094387419,NA,0.05,0.8,0.5,51,0.705612581,-0.094387419,1
+2,1,,NA,NA,NA,NA,NA,NA,NA,"Based on a number of considerations related to the hypotheses in question, whether author included a power analysis with submission, anticipated effect size, replication vs exploratory analyses, plus heuristics related to type of study and whether known problem with type II error (e.g., candidate gene association studies).",4,0.05,0.7,0.5,50,3,NA,1,9,4,NA,0.696893406,NA,-0.003106594,0.05,0.7,0.5,50,0.696893406,-0.003106594,0
+2,1,,NA,NA,NA,NA,NA,NA,NA,power analysis based on the proposed methods,3,0.05,0.8,0.5,60,3,NA,1,8,5,NA,0.775265889,NA,-0.024734111,0.05,0.8,0.5,60,0.775265889,-0.024734111,0
+1,1,"Based on the estimated effect, I calculate power, and CI width for various sample sizes.",4,0.05,0.8,0.3,120,NA,3,,NA,NA,NA,NA,NA,NA,NA,6,7,4,0.63850543,NA,-0.16149457,NA,0.05,0.8,0.3,120,0.63850543,-0.16149457,1
+2,1,,NA,NA,NA,NA,NA,NA,NA,By estimating power,3,0.05,0.8,0.2,20,NA,3,10,9,3,NA,0.094567328,NA,-0.705432672,0.05,0.8,0.2,20,0.094567328,-0.705432672,0
+1,1,I do determine my sample size based on the common practice in my field.,1,0.5,0.33,0.6,15,3,NA,,NA,NA,NA,NA,NA,NA,NA,3,7,2,0.842372481,NA,0.512372481,NA,0.5,0.33,0.6,15,0.842372481,0.512372481,0
+2,1,,NA,NA,NA,NA,NA,NA,NA,"depends on the type of the study: qual or quant, national sample, convenience sample... and effect size",2,0.8,0.6,0.5,25,NA,3,3,7,6,NA,0.956629574,NA,0.356629574,0.8,0.6,0.5,25,0.956629574,0.356629574,0
+1,1,"Number of variables or conditions / Generalizability / Power (but not usually calculated, more general recommendations) / The more, the better",4,0.05,0.8,0.5,20,NA,2,,NA,NA,NA,NA,NA,NA,NA,6,7,3,0.337939029,NA,-0.462060971,NA,0.05,0.8,0.5,20,0.337939029,-0.462060971,1
+2,1,,NA,NA,NA,NA,NA,NA,NA,,4,0.05,0.8,0.3,40,3,NA,1,8,3,NA,0.263283556,NA,-0.536716444,0.05,0.8,0.3,40,0.263283556,-0.536716444,0
+2,1,,NA,NA,NA,NA,NA,NA,NA,"It would depend on the size of the effect. I think sample size has to be big enough (n > 30 or so), but if a paper replicates an effect in a second sample, then sample size becomes less important. A small N with significant results would cue to me that it's a strong effect.",3,0.05,0.8,0.3,20,2,NA,10,7,1,NA,0.15226828,NA,-0.64773172,0.05,0.8,0.3,20,0.15226828,-0.64773172,0
+1,1,Power-analysis based on effect size estimates. Estimates are based on past experiences.,1,0.05,0.8,0.8,20,3,NA,,NA,NA,NA,NA,NA,NA,NA,10,7,1,0.693404197,NA,-0.106595803,NA,0.05,0.8,0.8,20,0.693404197,-0.106595803,1
+2,1,,NA,NA,NA,NA,NA,NA,NA,I prefer a minimum n = 30 per cell. More is better. Anything less is insufficient.,3,0.05,0.7,0.4,30,NA,2,10,4,1,NA,0.331521679,NA,-0.368478321,0.05,0.7,0.4,30,0.331521679,-0.368478321,0
+2,1,,NA,NA,NA,NA,NA,NA,NA,"The optimal sample size depends on the effect that researchers aim to find. Thus, as a reviewer, I positively value a priori sample size calculations based on an appropriate power analysis. ",4,0.05,0.8,0.5,50,3,NA,10,8,4,NA,0.696893406,NA,-0.103106594,0.05,0.8,0.5,50,0.696893406,-0.103106594,0
+1,1,"Whenever possible, power analysis based on pilot data. ",4,0.05,0.8,0.5,40,NA,3,,NA,NA,NA,NA,NA,NA,NA,1,6,5,0.598146901,NA,-0.201853099,NA,0.05,0.8,0.5,40,0.598146901,-0.201853099,1
+1,1,"Assuming that this is pertaining to collection of new data and not archival data, I determine the sample size by trying to estimate effect sizes and see what sample is needed to be powerful enough to detect that magnitude of an effect, reviewing other studies' sample sizes (assuming relevant studies exist), and then there are practical constraints that sometimes may constrain sample size (e.g., specific mental disorder is less often diagnosed in my local area than estimated prior to data collection). ",4,0.05,0.8,0.8,60,3,NA,,NA,NA,NA,NA,NA,NA,NA,1,8,2,0.99148114,NA,0.19148114,NA,0.05,0.8,0.8,60,0.99148114,0.19148114,1
+2,1,,NA,NA,NA,NA,NA,NA,NA,It depends on many different factors such as the reported effect size or the research design. ,3,0.05,0.95,0.3,50,3,NA,10,4,2,NA,0.317802205,NA,-0.632197795,0.05,0.95,0.3,50,0.317802205,-0.632197795,0
+1,1,power analysis to determine sample size required to detect effects of various size,4,0.05,0.8,0.25,35,3,NA,,NA,NA,NA,NA,NA,NA,NA,3,7,3,0.177869767,NA,-0.622130233,NA,0.05,0.8,0.25,35,0.177869767,-0.622130233,1
+1,1,"rules of thumb for between, within, and mixed model designs and number of factors. ",3,0.05,0.4,0.3,25,NA,3,,NA,NA,NA,NA,NA,NA,NA,10,7,1,0.180025222,NA,-0.219974778,NA,0.05,0.4,0.3,25,0.180025222,-0.219974778,0
+1,1,power analysis + what is feasible,3,0.05,0.8,0.5,30,NA,3,,NA,NA,NA,NA,NA,NA,NA,10,6,4,0.477896521,NA,-0.322103479,NA,0.05,0.8,0.5,30,0.477896521,-0.322103479,1
+2,1,,NA,NA,NA,NA,NA,NA,NA,If it fits a general estimate of what I think is adequate,4,0.05,0.8,0.3,30,NA,3,3,9,3,NA,0.207851772,NA,-0.592148228,0.05,0.8,0.3,30,0.207851772,-0.592148228,0
+1,1,"It depends on the methodology, previously observed effect size, and subject population. Noisier subjects (e.g. children) or smaller expected effects require a larger N. If effect size is unknown, I estimate it by looking at an initial subset of data (I realize that 'data peeking' is frowned upon, but if the effect size is unknown, there's no other way). I then maintain the same sample size throughout a series of studies.",3,0.01,0.8,0.5,20,3,NA,,NA,NA,NA,NA,NA,NA,NA,2,8,3,0.143955083,NA,-0.656044917,NA,0.01,0.8,0.5,20,0.143955083,-0.656044917,0
+1,1,"use past literature as an initial guide, but also try for at least 30 per cell of a between-subjects design.",4,0.05,0.7,0.5,35,NA,3,,NA,NA,NA,NA,NA,NA,NA,10,5,3,0.540687916,NA,-0.159312084,NA,0.05,0.7,0.5,35,0.540687916,-0.159312084,0
+1,1,Consider sample sizes of similar studies published in the past and conduct a power analysis using estimated effect sizes based on previous research.,4,0.05,0.7,0.35,15,NA,3,,NA,NA,NA,NA,NA,NA,NA,3,8,2,0.15251068,NA,-0.54748932,NA,0.05,0.7,0.35,15,0.15251068,-0.54748932,1
+2,1,,NA,NA,NA,NA,NA,NA,NA,yes,3,0.05,0.2,0.2,30,3,NA,10,6,3,NA,0.118679436,NA,-0.081320564,0.05,0.2,0.2,30,0.118679436,-0.081320564,0
+1,1,Previous studies on the topic and specific research design.,4,0.05,0.8,0.5,40,3,NA,,NA,NA,NA,NA,NA,NA,NA,3,7,2,0.598146901,NA,-0.201853099,NA,0.05,0.8,0.5,40,0.598146901,-0.201853099,0
+1,1,Try to obtain as many as possible,4,0.01,0.25,0.25,250,NA,3,,NA,NA,NA,NA,NA,NA,NA,8,7,5,0.583144631,NA,0.333144631,NA,0.01,0.25,0.25,250,0.583144631,0.333144631,0
+1,1,"My case is perhaps unique in that I have mostly worked with a longitudinal data set that is now 40 years old and that was established in the early 70s.  it can't ""grow"" except if we were to recruit cross sectional comparison groups which we did when the RTC participants entered public school and also for the early and mid-adolescent follow-up studies that we did.",4,0.05,0.5,0.5,100,3,NA,,NA,NA,NA,NA,NA,NA,NA,3,2,5,0.940427204,NA,0.440427204,NA,0.05,0.5,0.5,100,0.940427204,0.440427204,0
+2,1,,NA,NA,NA,NA,NA,NA,NA,"Generally 20 per cell is acceptable, though this requirement increases when more complex hypotheses are being tested (e.g., mediation/moderation). With less powered studies, replications are great evidence.",1,0.1,0.7,0.3,20,2,NA,10,9,2,NA,0.242898958,NA,-0.457101042,0.1,0.7,0.3,20,0.242898958,-0.457101042,0
+1,1,"A combination of power calculations (if I can estimate how large the effect will be, such as in studies that build on earlier similar work), professional experience, and practical constraints (e.g., number of participants in schools that participate in our research)",3,0.05,0.9,0.35,50,NA,1,,NA,NA,NA,NA,NA,NA,NA,10,6,3,0.410277788,NA,-0.489722212,NA,0.05,0.9,0.35,50,0.410277788,-0.489722212,1
+1,1,via power analysis,4,0.05,0.8,0.035,40,3,NA,,NA,NA,NA,NA,NA,NA,NA,1,6,6,0.052742685,NA,-0.747257315,NA,0.05,0.8,0.035,40,0.052742685,-0.747257315,1
+2,1,,NA,NA,NA,NA,NA,NA,NA,"is it sufficiently large to test the design, or to deliver sufficiently powered effects.",4,0.9,0.8,0.2,35,3,NA,10,5,3,NA,0.9293987,NA,0.1293987,0.9,0.8,0.2,35,0.9293987,0.1293987,0
+2,1,,NA,NA,NA,NA,NA,NA,NA,As a reviewer I hope that the authors have chosen a sample size with sufficient power. I give the authors some latitude if the study is a pure exploratory study so the effect sizes are unknown. ,4,0.05,0.9,0.6,50,4,NA,2,8,3,NA,0.843875422,NA,-0.056124578,0.05,0.9,0.6,50,0.843875422,-0.056124578,0
+1,1,rule of thumb as suggested by simonsohn et al: # of conditions times 50,4,0,0,0,40,NA,3,,NA,NA,NA,NA,NA,NA,NA,10,3,2,0,NA,0,NA,0,0,0,40,0,0,0
+1,1,using what is perceived as the 'field standard',2,0.05,0.9,0.2,20,3,NA,,NA,NA,NA,NA,NA,NA,NA,7,7,3,0.094567328,NA,-0.805432672,NA,0.05,0.9,0.2,20,0.094567328,-0.805432672,0
+1,1,"I copy the size of similar, previously published studies. If I can get pilot data, I estimated the sample size from the effect size.  ",3,0.05,0.8,0.5,30,2,NA,,NA,NA,NA,NA,NA,NA,NA,7,6,3,0.477896521,NA,-0.322103479,NA,0.05,0.8,0.5,30,0.477896521,-0.322103479,0
+1,1,As large as I can get it.,3,5.00E-08,0.8,0.1,10000,NA,4,,NA,NA,NA,NA,NA,NA,NA,1,5,3,0.947074935,NA,0.147074935,NA,5.00E-08,0.8,0.1,10000,0.947074935,0.147074935,0
+2,1,,NA,NA,NA,NA,NA,NA,NA,"If it's a between subjects design with less than 20 per cell then I am concerned. If there is reason to believe that the effect size is moderate to small, then much more N per condition is desired.",4,0.05,0.8,0.4,40,3,NA,10,6,2,NA,0.423521152,NA,-0.376478848,0.05,0.8,0.4,40,0.423521152,-0.376478848,0
+2,1,,NA,NA,NA,NA,NA,NA,NA,"i read the sample description in the methods section, and evaluate the sample's suitability through my expertise in research. if i find the sample description incomplete, or the sample inadequate, i raise this issue in my review.",3,0.05,0.9,0,0,3,NA,8,7,3,NA,NA,NA,NA,0.05,0.9,0,0,NA,NA,0
+2,1,,NA,NA,NA,NA,NA,NA,NA,"Not sure what you mean by quality, if you mean appropriateness, then yes",3,0.05,0.8,0.2,50,NA,3,2,6,4,NA,0.167675486,NA,-0.632324514,0.05,0.8,0.2,50,0.167675486,-0.632324514,0
+2,1,,NA,NA,NA,NA,NA,NA,NA,,4,0.1,0.8,0.2,50,NA,3,10,5,2,NA,0.261450374,NA,-0.538549626,0.1,0.8,0.2,50,0.261450374,-0.538549626,0
+1,1,My sample size is limited by the number of monkeys of appropriate age and sex in our colony.  I select comparisons that have sufficient power to detect a reasonable effect size.  ,4,0.05,0.8,0.5,10,NA,3,,NA,NA,NA,NA,NA,NA,NA,7,8,6,0.185095656,NA,-0.614904344,NA,0.05,0.8,0.5,10,0.185095656,-0.614904344,1
+1,1,Mathematically,4,0.05,0.8,0.2,100,NA,3,,NA,NA,NA,NA,NA,NA,NA,10,8,1,0.290645872,NA,-0.509354128,NA,0.05,0.8,0.2,100,0.290645872,-0.509354128,0
+1,1,power analysis and typical practices in the field,3,0.05,0.8,0.2,35,NA,3,,NA,NA,NA,NA,NA,NA,NA,6,7,3,0.130849707,NA,-0.669150293,NA,0.05,0.8,0.2,35,0.130849707,-0.669150293,1
+1,1,"If online or otherwise not too limited, these days I do a power analysis.  / If subjects coming into a lab, I'm restricted to about 300. And these are expensive. So I run ~150, analyze, and if it's close to significant but not there yet, I run an additional ~150.",4,0.05,0.8,0.2,100,NA,1,,NA,NA,NA,NA,NA,NA,NA,10,3,1,0.290645872,NA,-0.509354128,NA,0.05,0.8,0.2,100,0.290645872,-0.509354128,1
+2,1,,NA,NA,NA,NA,NA,NA,NA,Based on the effect size.,4,0.05,0.8,0.3,200,NA,1,1,7,4,NA,0.849149117,NA,0.049149117,0.05,0.8,0.3,200,0.849149117,0.049149117,0
+2,1,,NA,NA,NA,NA,NA,NA,NA,yes,1,0.05,0.8,0.5,30,3,NA,2,7,6,NA,0.477896521,NA,-0.322103479,0.05,0.8,0.5,30,0.477896521,-0.322103479,0
+1,1,Cohen's power table,4,0.1,0.8,0.5,50,4,NA,,NA,NA,NA,NA,NA,NA,NA,10,7,3,0.798954479,NA,-0.001045521,NA,0.1,0.8,0.5,50,0.798954479,-0.001045521,1
+2,1,,NA,NA,NA,NA,NA,NA,NA,,4,0.05,0.2,0.03,20,3,NA,4,5,5,NA,0.05098061,NA,-0.14901939,0.05,0.2,0.03,20,0.05098061,-0.14901939,0
+1,1,I tend to use to the same sample size (per cell),4,0.05,0.8,0.5,15,NA,3,,NA,NA,NA,NA,NA,NA,NA,10,8,4,0.262443034,NA,-0.537556966,NA,0.05,0.8,0.5,15,0.262443034,-0.537556966,0
+1,1,I look at other published research studies abnd estimate power requirements.,4,0.05,0.75,0.2,25,3,NA,,NA,NA,NA,NA,NA,NA,NA,3,5,5,0.106581448,NA,-0.643418552,NA,0.05,0.75,0.2,25,0.106581448,-0.643418552,1
+1,1,I tend to go for a fixed number (eg 50) per cell,3,0.05,0.8,0.4,40,NA,3,,NA,NA,NA,NA,NA,NA,NA,10,8,2,0.423521152,NA,-0.376478848,NA,0.05,0.8,0.4,40,0.423521152,-0.376478848,0
+2,1,,NA,NA,NA,NA,NA,NA,NA,"Sample size must always be judged in relation to the population under consideration. I prefer sample sizes of 200 or larger to ensure power to detect effects, larger sample if the model is larger. That said, I myself have published a structural modeling study with N = 56, because these were persons who survived heart attack and were anoxic for varying amounts of time then tested at 3 times of measurement -- more subjects were unlikely to be accumulated anytime soon",4,0.05,0.8,0.5,40,3,NA,3,8,6,NA,0.598146901,NA,-0.201853099,0.05,0.8,0.5,40,0.598146901,-0.201853099,0
+1,1,power analysis,4,0.05,0.8,0.5,60,3,NA,,NA,NA,NA,NA,NA,NA,NA,10,6,3,0.775265889,NA,-0.024734111,NA,0.05,0.8,0.5,60,0.775265889,-0.024734111,1
+2,1,,NA,NA,NA,NA,NA,NA,NA,,2,0.05,0.08,0.5,25,NA,3,10,6,1,NA,0.410100332,NA,0.330100332,0.05,0.08,0.5,25,0.410100332,0.330100332,0
+1,1,I try to get at least N=200 because that size least to adequate power for the kinds of effects I'm interested in.  ,4,0.05,0.8,0.5,65,NA,3,,NA,NA,NA,NA,NA,NA,NA,6,8,3,0.807584428,NA,0.007584428,NA,0.05,0.8,0.5,65,0.807584428,0.007584428,0
+2,1,,NA,NA,NA,NA,NA,NA,NA,"- compared to previous research investigating similar effects / - test-planning strategy (balance of alpha & beta errors, n, and reported effect sizes)",3,0.07,0.7,0.2,20,4,NA,10,6,1,NA,0.123960152,NA,-0.576039848,0.07,0.7,0.2,20,0.123960152,-0.576039848,0
+2,1,,NA,NA,NA,NA,NA,NA,NA,,4,0.05,0.8,0.5,30,3,NA,1,7,2,NA,0.477896521,NA,-0.322103479,0.05,0.8,0.5,30,0.477896521,-0.322103479,0
+1,1,"Power analyses. However, I also try to respect the arbitrary rules that reviewers and editors are expecting for any given statistical approaches. Otherwise, my research might simply be rejected regardless of evidence provided by power analyses. ",4,0.05,0.8,0.5,65,3,NA,,NA,NA,NA,NA,NA,NA,NA,10,8,5,0.807584428,NA,0.007584428,NA,0.05,0.8,0.5,65,0.807584428,0.007584428,1
+2,1,,NA,NA,NA,NA,NA,NA,NA,Yes,4,0.05,0.8,0.2,50,NA,3,1,8,3,NA,0.167675486,NA,-0.632324514,0.05,0.8,0.2,50,0.167675486,-0.632324514,0
+2,1,,NA,NA,NA,NA,NA,NA,NA,"Based on my own experience, the variability reported in the sample, and my a priori expectations on the effect size.",3,0.05,0.8,0.3,100,3,NA,10,4,3,NA,0.560059254,NA,-0.239940746,0.05,0.8,0.3,100,0.560059254,-0.239940746,0
+2,1,,NA,NA,NA,NA,NA,NA,NA,"If a researcher has significant effects, I tend not to worry too much about sample size.  I would say on average I prefer experimental studies to have a cell size of at least 20. For correlational studies, I like to see 10 participants per regression predictor. ",1,0.05,0.8,0.2,20,3,NA,10,5,3,NA,0.094567328,NA,-0.705432672,0.05,0.8,0.2,20,0.094567328,-0.705432672,0
+1,1,"Rule of thumb = minimum 30 per between-subject cell (e.g., 2x2 = 120 participants).",4,0.05,0.8,0.5,30,3,NA,,NA,NA,NA,NA,NA,NA,NA,10,6,3,0.477896521,NA,-0.322103479,NA,0.05,0.8,0.5,30,0.477896521,-0.322103479,0
+1,1,Try and recruit as many participants as possible within the time limit,4,0.05,0.7,0.3,20,2,NA,,NA,NA,NA,NA,NA,NA,NA,2,7,1,0.15226828,NA,-0.54773172,NA,0.05,0.7,0.3,20,0.15226828,-0.54773172,0
+1,1,power analysis,4,0.1,0.8,0.4,80,NA,1,,NA,NA,NA,NA,NA,NA,NA,10,5,2,0.80898722,NA,0.00898722,NA,0.1,0.8,0.4,80,0.80898722,0.00898722,1
+1,1,"I gather data in typically developing children. I like to perform mediational analyses or SEM in a longitudinal perspective, thus I usually collect data on at least 150 children and I try to keep my sample around 100.",3,0.1,0.9,0.7,60,NA,3,,NA,NA,NA,NA,NA,NA,NA,3,3,2,0.984886068,NA,0.084886068,NA,0.1,0.9,0.7,60,0.984886068,0.084886068,0
+1,1,Look at what other studies have had and what I can reasonably collect,4,0.05,0.6,0.5,30,NA,2,,NA,NA,NA,NA,NA,NA,NA,8,8,2,0.477896521,NA,-0.122103479,NA,0.05,0.6,0.5,30,0.477896521,-0.122103479,0
+2,1,,NA,NA,NA,NA,NA,NA,NA,depends on a-priori sample size calculation,3,0.05,0.8,0.35,100,3,NA,5,7,4,NA,0.692484238,NA,-0.107515762,0.05,0.8,0.35,100,0.692484238,-0.107515762,0
+2,1,,NA,NA,NA,NA,NA,NA,NA,"Quality sample size is dependent upon the size of the effect the investigators wish to demonstrate as well as on the nature of the research question. For example, study of a rare disorder may prevent very large samples.",3,0.05,0.8,0.5,65,NA,3,5,8,6,NA,0.807584428,NA,0.007584428,0.05,0.8,0.5,65,0.807584428,0.007584428,0
+2,1,,NA,NA,NA,NA,NA,NA,NA,"The main issue in sample size would be statistical power--i.e., if the authors obtained a non-significant result with a small sample, I would question the possibility of a type II error.",1,0.05,0.8,0.2,20,NA,1,5,8,4,NA,0.094567328,NA,-0.705432672,0.05,0.8,0.2,20,0.094567328,-0.705432672,0
+2,1,,NA,NA,NA,NA,NA,NA,NA,"An N of fewer than 20 per cell is pretty much unacceptable. The sample size may vary somewhat depending on the difficulty of the study, but generally I like to see at least 40-50 people per cell.",3,0.05,0.7,0.5,40,3,NA,10,7,1,NA,0.598146901,NA,-0.101853099,0.05,0.7,0.5,40,0.598146901,-0.101853099,0
+2,1,,NA,NA,NA,NA,NA,NA,NA,looking at effect sizes,4,0.05,0.8,0.5,25,1,NA,1,6,6,NA,0.410100332,NA,-0.389899668,0.05,0.8,0.5,25,0.410100332,-0.389899668,0
+2,1,,NA,NA,NA,NA,NA,NA,NA,"By considering whether the addition of a small number of people performing opposite to predictions would be sufficient to change the results. If so, then the sample is too small to produce reliable findings.",3,0.05,0.8,0.5,30,NA,3,2,7,2,NA,0.477896521,NA,-0.322103479,0.05,0.8,0.5,30,0.477896521,-0.322103479,0
+2,1,,NA,NA,NA,NA,NA,NA,NA,,4,0.05,0.8,0.05,75,NA,1,1,5,5,NA,0.060667132,NA,-0.739332868,0.05,0.8,0.05,75,0.060667132,-0.739332868,0
+2,1,,NA,NA,NA,NA,NA,NA,NA,The sample size should be higher or as high as the common sample size in comparable studies.,2,0.05,0.8,0.8,30,3,NA,7,3,1,NA,0.861422516,NA,0.061422516,0.05,0.8,0.8,30,0.861422516,0.061422516,0
+1,1,use previous literature and ower analyses,4,0.05,0.8,0.5,20,NA,3,,NA,NA,NA,NA,NA,NA,NA,2,8,4,0.337939029,NA,-0.462060971,NA,0.05,0.8,0.5,20,0.337939029,-0.462060971,1
+2,1,,NA,NA,NA,NA,NA,NA,NA,"Based a lot on the study design, measurement approach and the phenomenon",4,0.05,0.85,0.5,20,NA,3,5,6,5,NA,0.337939029,NA,-0.512060971,0.05,0.85,0.5,20,0.337939029,-0.512060971,0
+2,1,,NA,NA,NA,NA,NA,NA,NA,"I consider the quality or appropriateness of a sample size based on whether authors report a plausible power analysis based on previous research; or on providing e.g., evidence from montecarlo studies regarding sufficient sample sizes for procedures.",3,0.05,0.8,0.5,50,NA,3,5,6,4,NA,0.696893406,NA,-0.103106594,0.05,0.8,0.5,50,0.696893406,-0.103106594,0
+1,1,"Depends on the study, for one using the Psychology Subject Pool I use the number of participants allocated. This is usually at least 120. For community studies, we have considerably more participants (500+). ",4,0.05,0.8,0.3,30,3,NA,,NA,NA,NA,NA,NA,NA,NA,10,7,5,0.207851772,NA,-0.592148228,NA,0.05,0.8,0.3,30,0.207851772,-0.592148228,0
+2,1,,NA,NA,NA,NA,NA,NA,NA,"Anything below 100 raises my eyebrow, anything below 50 is a huge red flag.",4,0.05,0.8,0.3,80,NA,3,8,8,1,NA,0.470511661,NA,-0.329488339,0.05,0.8,0.3,80,0.470511661,-0.329488339,0
+1,1,By general rules of thumb such as having 20 participants per condition or 20 participants per IV in a regression,3,0.05,0.8,0.5,20,3,NA,,NA,NA,NA,NA,NA,NA,NA,10,6,1,0.337939029,NA,-0.462060971,NA,0.05,0.8,0.5,20,0.337939029,-0.462060971,0
+1,1,"6 minimum, 12 optimum",4,0.05,0.001,0.5,20,3,NA,,NA,NA,NA,NA,NA,NA,NA,2,4,2,0.337939029,NA,0.336939029,NA,0.05,0.001,0.5,20,0.337939029,0.336939029,0
+1,1,"In correlational survey, we should collect more than 150 samples, whereas in experimental data, more than 30 participants are needed.",3,0.6,0.01,0.5,40,3,NA,,NA,NA,NA,NA,NA,NA,NA,10,4,1,0.959241482,NA,0.949241482,NA,0.6,0.01,0.5,40,0.959241482,0.949241482,0
+1,1,"if quantitative work, to have enough statistical power to detect anticipated effect sizes / if qualitative, to provide diversity of views/experiences for research question.",4,0.05,0.8,0.45,80,3,NA,,NA,NA,NA,NA,NA,NA,NA,3,7,3,0.807507859,NA,0.007507859,NA,0.05,0.8,0.45,80,0.807507859,0.007507859,1
+1,1,"By using one of de power calculators (for example,  G*power), but also on basis of the published studies with similar aims and design (to determine what is acceptable within our field)",4,0.05,0.8,0.5,64,3,NA,,NA,NA,NA,NA,NA,NA,NA,3,8,6,0.801459558,NA,0.001459558,NA,0.05,0.8,0.5,64,0.801459558,0.001459558,1
+2,1,,NA,NA,NA,NA,NA,NA,NA,"Rule of thumb, comparable other studies",3,0.05,0.6,0.5,20,2,NA,2,5,4,NA,0.337939029,NA,-0.262060971,0.05,0.6,0.5,20,0.337939029,-0.262060971,0
+2,1,,NA,NA,NA,NA,NA,NA,NA,It depends.,3,0.05,0.8,0.7,50,2,NA,2,5,4,NA,0.933906726,NA,0.133906726,0.05,0.8,0.7,50,0.933906726,0.133906726,0
+1,1,"I do secondary analysis of existing data, this usually involves analyzing all available data for a set of variables.",4,0.05,0.8,0.5,50,3,NA,,NA,NA,NA,NA,NA,NA,NA,5,7,2,0.696893406,NA,-0.103106594,NA,0.05,0.8,0.5,50,0.696893406,-0.103106594,0
+1,1,"I look at effect sizes in comparable studies.  Sometimes I use this information to estimate sample size needed for adequate power using the Gpower software.  However, if the effect size of interest is large enough, I improvise.  If the effect size of interest is too small, I may decide to pursue another path.",3,0.05,0.9,0.8,40,3,NA,,NA,NA,NA,NA,NA,NA,NA,2,7,3,0.94218184,NA,0.04218184,NA,0.05,0.9,0.8,40,0.94218184,0.04218184,1
+1,1,between 25 and 30 participants per conditions,4,0.01,0.4,0.2,25,NA,2,,NA,NA,NA,NA,NA,NA,NA,10,7,3,0.029755552,NA,-0.370244448,NA,0.01,0.4,0.2,25,0.029755552,-0.370244448,0
+2,1,,NA,NA,NA,NA,NA,NA,NA,relevant,2,0.7,0.8,0.5,20,2,NA,6,3,3,NA,0.908524355,NA,0.108524355,0.7,0.8,0.5,20,0.908524355,0.108524355,0
+1,1,"A mix between (a) power estimation (e.g., with G*Power or by reading in articles what sample is minimally expected), (b) practical considerations (e.g., financial costs, time, human resources, etc.), and (c) ""regular"" guidelines in the field of study (e.g., how many participants are usually used). My goal is usually to get as many participants as is possible.",4,0.05,0.8,0.3,50,NA,3,,NA,NA,NA,NA,NA,NA,NA,8,4,3,0.317802205,NA,-0.482197795,NA,0.05,0.8,0.3,50,0.317802205,-0.482197795,1
+2,1,,NA,NA,NA,NA,NA,NA,NA,,3,0.05,0.8,0.05,10,3,NA,8,6,4,NA,0.0512874,NA,-0.7487126,0.05,0.8,0.05,10,0.0512874,-0.7487126,0
+2,1,,NA,NA,NA,NA,NA,NA,NA,Always,4,0.01,0.9,0.2,100,3,NA,8,9,6,NA,0.120346146,NA,-0.779653854,0.01,0.9,0.2,100,0.120346146,-0.779653854,0
+1,1,"I get as many participants as I possibly can over the 8-month school year until I run out. I often work with populations that don't give me access to a huge available sample, so I try every possible way of recruiting people given estimates of effect size (which isn't always known) to calculate the power I need. ",3,0.05,0.8,0.5,30,NA,3,,NA,NA,NA,NA,NA,NA,NA,10,4,2,0.477896521,NA,-0.322103479,NA,0.05,0.8,0.5,30,0.477896521,-0.322103479,1
+2,1,,NA,NA,NA,NA,NA,NA,NA,"As a general hurestic, I prefer having at least 30 participants per cell (standard central limit theorom). If they have less, there needs to be a sufficent justification for why (i.e., expensive method like fMRI or it being a special sample like children with Autism).",3,0.05,0.8,0.5,30,NA,1,10,8,2,NA,0.477896521,NA,-0.322103479,0.05,0.8,0.5,30,0.477896521,-0.322103479,0
+2,1,,NA,NA,NA,NA,NA,NA,NA,I typically run a power analysis in GPower 3.1 to determine power.,4,0.05,0.8,0.5,20,3,NA,1,7,3,NA,0.337939029,NA,-0.462060971,0.05,0.8,0.5,20,0.337939029,-0.462060971,0
+1,1,"Rule of thumb, 50 in each cell.",4,0.05,0.7,0.05,50,3,NA,,NA,NA,NA,NA,NA,NA,NA,3,5,1,0.057049828,NA,-0.642950172,NA,0.05,0.7,0.05,50,0.057049828,-0.642950172,0
+1,1,Rules of thumb and a priori power analysis,4,0.1,0.8,0.2,30,NA,1,,NA,NA,NA,NA,NA,NA,NA,6,7,3,0.197591946,NA,-0.602408054,NA,0.1,0.8,0.2,30,0.197591946,-0.602408054,1
+2,1,,NA,NA,NA,NA,NA,NA,NA,ignore,4,0,0,0,0,NA,4,10,1,6,NA,NA,NA,NA,0,0,0,0,NA,NA,0
+2,1,,NA,NA,NA,NA,NA,NA,NA,"If the experimenters use parametric analyses, I usually compare the sample size to one around n = 30 participants. Another way would be to look at previous literature investigating the same or highly similar effect to see how many participants were needed to find an effect. If it is a large effect, then a smaller sample size may be needed.",3,0.05,0.8,0.5,30,3,NA,2,6,2,NA,0.477896521,NA,-0.322103479,0.05,0.8,0.5,30,0.477896521,-0.322103479,0
+1,1,"I aim for at least 30 in each cell (or more based on expected effect size/ power) and then go until we run out of participants, money, or time. ",3,0.05,0.8,0.2,30,3,NA,,NA,NA,NA,NA,NA,NA,NA,10,6,2,0.118679436,NA,-0.681320564,NA,0.05,0.8,0.2,30,0.118679436,-0.681320564,1
+1,1,Rule of thumb of N is minimally 20 per predictor.,3,0.05,0.8,0.6,20,4,NA,,NA,NA,NA,NA,NA,NA,NA,3,4,2,0.456034069,NA,-0.343965931,NA,0.05,0.8,0.6,20,0.456034069,-0.343965931,0
+1,1,"I usually try to get an idea of the effect size based on previous similar studies. I also try to get a sense of sufficient sample size by doing power computations, to establish a sufficient number of participants. However, practical issues (availability of money, time, participants) also determine the sample size, so that data collection might not yield the desired number of participants.",4,0.05,0.7,0.25,35,NA,3,,NA,NA,NA,NA,NA,NA,NA,10,7,2,0.177869767,NA,-0.522130233,NA,0.05,0.7,0.25,35,0.177869767,-0.522130233,1
+1,1,By doing a power calculation,3,0.05,0.5,0.7,20,NA,1,,NA,NA,NA,NA,NA,NA,NA,10,5,3,0.578290431,NA,0.078290431,NA,0.05,0.5,0.7,20,0.578290431,0.078290431,1
+2,1,,NA,NA,NA,NA,NA,NA,NA,Taking into account previous research on the topic and its sample.   / Considering selection process and exclusions criteria. / Looking at effect size.,3,0.05,0.8,0.2,30,NA,3,10,8,3,NA,0.118679436,NA,-0.681320564,0.05,0.8,0.2,30,0.118679436,-0.681320564,0
+2,1,,NA,NA,NA,NA,NA,NA,NA,,3,0.05,0.8,0.5,40,NA,1,1,7,6,NA,0.598146901,NA,-0.201853099,0.05,0.8,0.5,40,0.598146901,-0.201853099,0
+1,1,"Although I was taught to somewhat ""wing it"" and, for example, run participants for an entire semester, or pick an arbitrary target number, in the past few years I have been basing sample size decisions on a priori power analyses.",4,0.05,0.8,0.5,75,3,NA,,NA,NA,NA,NA,NA,NA,NA,10,7,3,0.860367513,NA,0.060367513,NA,0.05,0.8,0.5,75,0.860367513,0.060367513,1
+1,1,Power analysis based on expected statistical approach and effect size. /  / **The next question forces me to respond without enough information. I chose a response below at random.,4,0.05,0.8,0.2,30,3,NA,,NA,NA,NA,NA,NA,NA,NA,6,7,1,0.118679436,NA,-0.681320564,NA,0.05,0.8,0.2,30,0.118679436,-0.681320564,1
+1,1,"General rules of thumb, which typically overestimate the power necessary for my analyses (e.g., 30-40 per cell when using t-tests or ANOVAs)",4,0.1,0.8,0.5,30,3,NA,,NA,NA,NA,NA,NA,NA,NA,10,5,3,0.606211397,NA,-0.193788603,NA,0.1,0.8,0.5,30,0.606211397,-0.193788603,0
+1,1,"For visual perception studies, I base it on my own observation of the stimuli.  If it feels like a really strong illusion / effect, then maybe 8 or 12 subjects.  If it's weak, maybe 20-24 to make sure.",1,0.1,0.3,0.2,10,NA,3,,NA,NA,NA,NA,NA,NA,NA,2,3,2,0.131288791,NA,-0.168711209,NA,0.1,0.3,0.2,10,0.131288791,-0.168711209,0
+2,1,,NA,NA,NA,NA,NA,NA,NA,"Depending on the type of study: experimental, survey in the field; cross-sectional or longitudinal or even diary study... makes a lot of difference in order to make an estimate of the power..",3,0.05,0.65,0.5,20,3,NA,6,7,4,NA,0.337939029,NA,-0.312060971,0.05,0.65,0.5,20,0.337939029,-0.312060971,0
+1,1,Past research as a guideline. Pick a round number. Get as close as possible.,3,0.05,0.8,0.3,20,NA,1,,NA,NA,NA,NA,NA,NA,NA,8,8,4,0.15226828,NA,-0.64773172,NA,0.05,0.8,0.3,20,0.15226828,-0.64773172,0
+1,1,,4,0.05,0.8,0.2,20,NA,3,,NA,NA,NA,NA,NA,NA,NA,1,9,5,0.094567328,NA,-0.705432672,NA,0.05,0.8,0.2,20,0.094567328,-0.705432672,0
+2,1,,NA,NA,NA,NA,NA,NA,NA,Based on power analyses or comparability to prior work in the area.,3,0.05,0.8,0.5,30,3,NA,5,7,5,NA,0.477896521,NA,-0.322103479,0.05,0.8,0.5,30,0.477896521,-0.322103479,0
+2,1,,NA,NA,NA,NA,NA,NA,NA,,4,0.05,0.8,0.2,100,3,NA,9,9,4,NA,0.290645872,NA,-0.509354128,0.05,0.8,0.2,100,0.290645872,-0.509354128,0
+1,1,Either by using a computer program to ascertain the size needed for appropriate power or by consulting prior research studies in the domain.,4,0.05,0.8,0.2,40,NA,3,,NA,NA,NA,NA,NA,NA,NA,2,5,6,0.143080304,NA,-0.656919696,NA,0.05,0.8,0.2,40,0.143080304,-0.656919696,1
+2,0,,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+1,0,,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+2,0,,NA,NA,NA,NA,NA,NA,NA,"Neither. An appropriate power analysis is required to justify sample size. If sufficient power is given, I would prefer one replication. ",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+2,0,,NA,NA,NA,NA,NA,NA,NA,"by ""feel"" -- I have no rigorous way with which to do so.",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+2,0,,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+1,0,previous work in the area,3,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+2,0,,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+2,0,,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+1,0,,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+2,0,,NA,NA,NA,NA,NA,NA,NA,,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+2,0,,NA,NA,NA,NA,NA,NA,NA,,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+2,0,,NA,NA,NA,NA,NA,NA,NA,By bencmarking with the best studies in the field,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+2,0,,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+1,0,Based on the number of experimental conditions and/or based on previous studies in my field,3,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+2,0,,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+2,0,,NA,NA,NA,NA,NA,NA,NA,power,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+1,0,Given an assumed effect size we try to achieve a power of about .80,3,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+1,0,by what is available and they type of study/design,4,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+1,1,,3,0.05,0.8,0.4,100,NA,3,,NA,NA,NA,NA,NA,NA,NA,3,10,4,0.803647504,NA,0.003647504,NA,0.05,0.8,0.4,100,0.803647504,0.003647504,0
+1,0,Extimates based on prior research,2,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+1,0,,3,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+1,0,"The between subjects design includes how many conditions, 2? ",3,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+2,0,,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+1,0,,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+1,0,"power and logistics (i.e., feasibility).",4,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+1,0,Based on the complexity of the design and planned statistical methods,3,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+1,0,On the basis of the research design and of the type of effect I'm going to test/study.,1,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+2,0,,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+2,0,,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+1,0,"Power analysis on occasion, more often I know it is big enough given data collection opportunities.",3,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2,0,,NA,NA,NA,NA,NA,NA,NA,,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+NA,0,,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+1,0,,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+2,0,,NA,NA,NA,NA,NA,NA,NA,"Coming from the social sciences I first evaluate sampling design (i.e. probability sampling, etc); sample size is secondary to that. I generally do not review small sample size studies, especially not when non-probability designs, i.e. I reject invitations to review them.",4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+NA,0,,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+2,0,,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+1,0,,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+2,0,,NA,NA,NA,NA,NA,NA,NA,"Until recently, I don't think I thought much about this--and usually it's not much of an issue in papers I end up reviewing. But on average, I'm mostly concerned about basing conclusions on small samples, especially when a paper does not attempt to replicate a finding across experiments. Very large samples with small effects are also suspicious, especially if sample size fluctuate across experiments (i.e., could be a sign of p-hacking). But I don't think that's come up in a paper I've reviewed.",2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+1,0,power analyses ,3,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2,0,,NA,NA,NA,NA,NA,NA,NA,"As a rule of thumb, in an experiment, I prefer a minimum of 25 subjects per cell. In many experiments, however, the number of participants per cell is much lower.",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+1,0,guided by the sample available in the field or try to do some power analysis,4,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+1,0,,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+2,0,,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+1,0,"The sampling technique should be more important than the size.  The more the size, the better the result is. ",1,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+2,0,,NA,NA,NA,NA,NA,NA,NA,Power considerations,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+1,0,,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+2,0,,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+1,0,,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+1,0,"mainly power analysis, but also practical constraints",2,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+1,0,,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+2,0,,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+1,0,"Since I carry out reseach in work organizations, I usually try to involve all the workers of the focused organization",4,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+1,0,estimate power,2,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+1,0,,2,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+1,0,,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+2,0,,NA,NA,NA,NA,NA,NA,NA,,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+2,0,,NA,NA,NA,NA,NA,NA,NA,,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+1,0,,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+2,0,,NA,NA,NA,NA,NA,NA,NA,,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+1,0,"We have a lab that we use. Typically about 100-250 people sign up for each lab session, and I do not know in advance how many people will participate. I run studies in one and one only session. I never stop studies (unless there is an error in its operationalization) and never double up on sessions. ",3,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+2,0,,NA,NA,NA,NA,NA,NA,NA,"For investigations of existing data-sets, I look for a clear and compelling explanation of the inclusion criteria that were used to arrive at the final sample size. For novel studies, I look for an compelling explanation of why this sample size was recruited. Because effect sizes in my field are generally fairly small (rs < .20), I favor large sample studies.",4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+1,0,,3,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+1,0,,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+2,0,,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+2,0,,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+NA,0,,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+1,0,On the basis of previous Monte Carlo simulation or a specific power calculation. / I doubt whether any of the designs below have adquate power.,4,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2,0,,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+2,0,,NA,NA,NA,NA,NA,NA,NA,rule of thumb = 20 to 30 participants per cell,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+2,0,,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+2,0,,NA,NA,NA,NA,NA,NA,NA,,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+2,0,,NA,NA,NA,NA,NA,NA,NA,,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+1,0,In most cases I aim for about 40 people per condition,4,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+2,0,,NA,NA,NA,NA,NA,NA,NA,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+1,0,,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+1,0,,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+2,0,,NA,NA,NA,NA,NA,NA,NA,Good,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+2,0,,NA,NA,NA,NA,NA,NA,NA,At least 20 per cell,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+2,0,,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+2,0,,NA,NA,NA,NA,NA,NA,NA,absolute sample size,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+1,0,,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+1,0,Minimum sample needed is determined by referring to Cohen (1988) Statistical Power Tables. ,4,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2,0,,NA,NA,NA,NA,NA,NA,NA,If the results are not expected by chance I do not think the sample size matters except for issues of / reasonable aspects of random assignment and in relation to the conclusions the authors draw.,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+1,0,A combination of power calculations and the results and methods of previous research.,3,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+1,0,"depends on effect size and reliability of the measure; for studies involving unknown effect sizes, I typically run a first with 100-120 participants and then use the results of this study to plan the sample size of follow-up studies",4,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+NA,0,,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+2,0,,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+2,0,,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+2,0,,NA,NA,NA,NA,NA,NA,NA,"We usually start with a power analysis, or a comparison with past studies. ",2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+1,0,,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+2,0,,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+2,0,,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+2,0,,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+1,0,"I usually try to get as many respondents as possible (usually college students) /  / (I do not understand the following question, but there is no way for me to say so)",4,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+2,0,,NA,NA,NA,NA,NA,NA,NA,,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+2,0,,NA,NA,NA,NA,NA,NA,NA,"By considering a combination of a number of factors, including the numbers of trials per condition, methods used, populations studied, design employed (between/within), data loss, etc.",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+1,0,"The ""masquerade"" is powr analysis, but as my work is not experimental and does not only rely on a single question or a single predictor or outcome, I think this is all just silly. ",4,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+1,0,,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+2,0,,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+1,0,,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+2,0,,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+1,0,by the breaks in the semester. I collect data as much data as I can until the semester ends and if it doesn't meet a minimum I continue to the next semester. ,4,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+2,0,,NA,NA,NA,NA,NA,NA,NA,"Quality of sample size is contingent upon the unique samples examined. In vulnerable patients thus as those with advanced cancer who I study, quality size is smaller than among the general population.",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+1,0,,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+2,0,,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+1,0,A rough power analysis...but many of my samples are in the 10s of thousands so I don't typically worry too much about power...,4,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2,0,,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+2,0,,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+2,0,,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+2,0,,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+1,0,,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+2,0,,NA,NA,NA,NA,NA,NA,NA,This depends on the effects that the authors are attempting to investigate and related power analysis. ,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+2,0,,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+1,0,POWER ANALYSIS,4,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+1,0,Feasibility in testing time/funding availability and recruitment pool.,4,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+1,0,"The more, the better. / But the number of subjects to be available is limited. / Thus, ""compromise"" determines the sample size. ",3,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+1,0,,4,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+2,0,,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+1,0,"Depends upon research design.  For basic correlational studies I aim for 100+, but this would go upwards depending upon the specific hypotheses, analyses appropriate for testing the hypotheses, and so forth.  For example, multiple regressions with many variables and some interactions, I would aim for larger sample size.   For experiments, I generally aim for 30+ per condition.  However, for exact estimates for specific study designs, I would calculate desired power, estimated sample size, etc.",3,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2,1,,NA,NA,NA,NA,NA,NA,NA,"Based on my experience of potential effect size and power to find the effect. Coupled with known issues that can affect a reasonable expected sample size (e.g., in a clinical setting)",4,0.05,0.8,0.2,30,NA,3,8,9,3,NA,0.118679436,NA,-0.681320564,0.05,0.8,0.2,30,0.118679436,-0.681320564,0
+1,1,I used to base my sample size on the heuristic: 15-20 participants per cell / Nowadays I standardly conduct poweranalysis to determine sample size,4,0.05,0.8,0.6,30,3,NA,,NA,NA,NA,NA,NA,NA,NA,10,7,1,0.627504587,NA,-0.172495413,NA,0.05,0.8,0.6,30,0.627504587,-0.172495413,1
+1,0,power analyses / practicability,3,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+1,0,,3,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+2,0,,NA,NA,NA,NA,NA,NA,NA,"Mostly, I would look for a reasonable ratio of sample size vs number of conditions, and a roughly even distribution between conditions. I prefer larger samples to threadbare ones, though truly excessive samples should be avoided.",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+1,1,it depends on the resources available. For a lab study at least 20-30  participants per condition (although the study suffers from low power it is difficult to get more participants in the lab),2,0.05,0.8,0.03,20,2,NA,,NA,NA,NA,NA,NA,NA,NA,10,8,2,0.05098061,NA,-0.74901939,NA,0.05,0.8,0.03,20,0.05098061,-0.74901939,0
+2,0,,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+2,0,,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+2,0,,NA,NA,NA,NA,NA,NA,NA,,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+1,0,,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+1,1,"1. I use published data (from 1,000 to 100,000 participants). / 2. Rule of thumb. The more, the better. But e.g., individual testing in kindergarten is rather time consuming. Here smaller samples of about 20 for each student. Totally around 200.",1,0.05,0.8,0.4,27,3,NA,,NA,NA,NA,NA,NA,NA,NA,8,7,3,0.302782725,NA,-0.497217275,NA,0.05,0.8,0.4,27,0.302782725,-0.497217275,0
+2,0,,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+1,0,Power analysis,4,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2,0,,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+1,0,,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+2,0,,NA,NA,NA,NA,NA,NA,NA,"I don't understand this question. Does the ""quality"" of the sample size refer to whether it has adequate power? /  / Does capital N in the question below refer to the total sample size (in which case my answer might depend on the number of cells in the design) or the cell size? ",4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+1,0,,4,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+2,0,,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+1,0,"Because my experience on the neuroimaging techniques I used (ERPs, fMRI), I use to evaluate that I need to run at least 24 participants for each study. In some case, because the artifacts in ERPs the final simple could be less, but not below 16 or so participants. ",4,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+1,0,,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+2,0,,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+1,0,,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+1,0,By performing power analyses while setting up the study.,4,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2,1,,NA,NA,NA,NA,NA,NA,NA,Yes,4,0.8,0.8,0.36,50,3,NA,10,9,2,NA,0.959024614,NA,0.159024614,0.8,0.8,0.36,50,0.959024614,0.159024614,0
+1,1,The bigger the better. ,4,0.05,0.9,0.2,500,NA,1,,NA,NA,NA,NA,NA,NA,NA,8,8,3,0.884788506,NA,-0.015211494,NA,0.05,0.9,0.2,500,0.884788506,-0.015211494,0
+1,1,Poweranalyses or out of what is possible in practice,4,0.05,0.02,0.03,125,NA,2,,NA,NA,NA,NA,NA,NA,NA,8,3,2,0.056418266,NA,0.036418266,NA,0.05,0.02,0.03,125,0.056418266,0.036418266,1
+1,1,I tale 30-40 participants/ expérimental condition,4,0.81,0.5,0.5,30,2,NA,,NA,NA,NA,NA,NA,NA,NA,10,5,2,0.969778742,NA,0.469778742,NA,0.81,0.5,0.5,30,0.969778742,0.469778742,0
+2,1,,NA,NA,NA,NA,NA,NA,NA,"I often don't. In studies I review, (sociological) sample size is almost always quite large. ",3,0.05,0.8,0.4,30,3,NA,10,9,2,NA,0.331521679,NA,-0.468478321,0.05,0.8,0.4,30,0.331521679,-0.468478321,0
+1,1,"Power analysis for the analyses I anticipate running. I also tend to use a rule of thumb of having at least 100 participants, as I tend to do correlational rather than experimental research.",3,0.05,0.8,0.3,50,3,NA,,NA,NA,NA,NA,NA,NA,NA,3,9,3,0.317802205,NA,-0.482197795,NA,0.05,0.8,0.3,50,0.317802205,-0.482197795,1
+2,1,,NA,NA,NA,NA,NA,NA,NA,,3,0.05,0.8,0.3,40,3,NA,7,7,3,NA,0.263283556,NA,-0.536716444,0.05,0.8,0.3,40,0.263283556,-0.536716444,0
+2,1,,NA,NA,NA,NA,NA,NA,NA,,3,0.05,0.7,0.3,15,3,NA,3,7,5,NA,0.124697843,NA,-0.575302157,0.05,0.7,0.3,15,0.124697843,-0.575302157,0
+1,1,"I plan as a rule of thumb to run at least 20 participants per condition, but a larger number is preferable if feasible.",3,0.05,0.8,0.2,20,NA,3,,NA,NA,NA,NA,NA,NA,NA,10,6,2,0.094567328,NA,-0.705432672,NA,0.05,0.8,0.2,20,0.094567328,-0.705432672,0
+1,1,Based on previous reported studies and feasability ,4,0.05,0.8,0.5,50,3,NA,,NA,NA,NA,NA,NA,NA,NA,3,7,1,0.696893406,NA,-0.103106594,NA,0.05,0.8,0.5,50,0.696893406,-0.103106594,0
+2,1,,NA,NA,NA,NA,NA,NA,NA,,4,0.05,0.05,0.7,30,3,NA,1,7,5,NA,0.759904918,NA,0.709904918,0.05,0.05,0.7,30,0.759904918,0.709904918,0
+2,1,,NA,NA,NA,NA,NA,NA,NA,I take into account if the sample size is large enough given the statistical analyses. Also the use of op population sample versus clinical sample is taken into account.,4,0.05,0.8,0.2,20,NA,1,8,7,3,NA,0.094567328,NA,-0.705432672,0.05,0.8,0.2,20,0.094567328,-0.705432672,0
+2,1,,NA,NA,NA,NA,NA,NA,NA,,3,0.05,0.8,0.5,20,NA,3,2,6,2,NA,0.337939029,NA,-0.462060971,0.05,0.8,0.5,20,0.337939029,-0.462060971,0
+2,1,,NA,NA,NA,NA,NA,NA,NA,Consider how representative it may be of the topic of interest,3,0.05,0.3,5,50,NA,3,6,7,5,NA,1,NA,0.7,0.05,0.3,5,50,1,0.7,0
+1,1,According to relevant literature,1,0.5,0.3,0.3,15,NA,1,,NA,NA,NA,NA,NA,NA,NA,3,7,2,0.624896277,NA,0.324896277,NA,0.5,0.3,0.3,15,0.624896277,0.324896277,0
+2,0,,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+1,1,Power analysis based on effect size of pilot data or other literature,4,0.1,0.8,0.5,15,NA,1,,NA,NA,NA,NA,NA,NA,NA,3,7,4,0.380216632,NA,-0.419783368,NA,0.1,0.8,0.5,15,0.380216632,-0.419783368,1
+2,1,,NA,NA,NA,NA,NA,NA,NA,,3,0.05,0.3,0.4,30,NA,2,8,7,1,NA,0.331521679,NA,0.031521679,0.05,0.3,0.4,30,0.331521679,0.031521679,0
+1,1,By power calculation,4,0.05,0.8,0.5,40,NA,3,,NA,NA,NA,NA,NA,NA,NA,1,6,1,0.598146901,NA,-0.201853099,NA,0.05,0.8,0.5,40,0.598146901,-0.201853099,1
+1,1,,2,0.05,0.6,0.3,20,3,NA,,NA,NA,NA,NA,NA,NA,NA,5,8,2,0.15226828,NA,-0.44773172,NA,0.05,0.6,0.3,20,0.15226828,-0.44773172,0
+2,1,,NA,NA,NA,NA,NA,NA,NA,"how to you mean ""quality"", do you mean number of subjects? I go by what is custom and reasonable in the literature (a priori power analysis is best though).",3,0.05,0.8,0.5,30,4,NA,7,8,3,NA,0.477896521,NA,-0.322103479,0.05,0.8,0.5,30,0.477896521,-0.322103479,0
+1,1,Power analysis and sample availability ,3,0.05,0.8,0.3,45,NA,3,,NA,NA,NA,NA,NA,NA,NA,10,6,2,0.290698385,NA,-0.509301615,NA,0.05,0.8,0.3,45,0.290698385,-0.509301615,1
+2,1,,NA,NA,NA,NA,NA,NA,NA,"Sample size should be looked at in function of the research question. For example if it is a qualitative or quantitative study sample sizes can vary substantially. For quantitative studies that involve multilevel data one should look at the variation in sample sizes at multiple levels. Usually, I am also concerned when sample sizes become too large in quantitative studies because their power levels become too high. ",1,0.05,0.8,0.5,5,3,NA,6,5,3,NA,0.10768599,NA,-0.69231401,0.05,0.8,0.5,5,0.10768599,-0.69231401,0
+1,1,convenience,4,0.05,0.9,0.4,300,3,NA,,NA,NA,NA,NA,NA,NA,NA,1,5,5,0.998311366,NA,0.098311366,NA,0.05,0.9,0.4,300,0.998311366,0.098311366,0
+2,1,,NA,NA,NA,NA,NA,NA,NA,,1,0.05,0.8,0.2,20,3,NA,1,9,6,NA,0.094567328,NA,-0.705432672,0.05,0.8,0.2,20,0.094567328,-0.705432672,0
+1,1,Power analysis,4,0.05,0.8,0.3,100,3,NA,,NA,NA,NA,NA,NA,NA,NA,10,8,6,0.560059254,NA,-0.239940746,NA,0.05,0.8,0.3,100,0.560059254,-0.239940746,1
+1,1,"Cost (fMRI), availability (patient studies), or the size of the effect I'm assessing.",3,0.05,0.8,0.2,20,3,NA,,NA,NA,NA,NA,NA,NA,NA,2,8,3,0.094567328,NA,-0.705432672,NA,0.05,0.8,0.2,20,0.094567328,-0.705432672,0
+1,1,Effect size,4,0.05,0.8,0.5,100,NA,1,,NA,NA,NA,NA,NA,NA,NA,1,8,3,0.940427204,NA,0.140427204,NA,0.05,0.8,0.5,100,0.940427204,0.140427204,0
+2,1,,NA,NA,NA,NA,NA,NA,NA,I try to determine whether it is sufficient for the proposed analyses.  I also like to know whether it might be representative of some population.,3,0.05,0.8,0.2,30,NA,3,3,7,4,NA,0.118679436,NA,-0.681320564,0.05,0.8,0.2,30,0.118679436,-0.681320564,0
+1,1,,2,1,1,0.1,0,NA,3,,NA,NA,NA,NA,NA,NA,NA,9,9,3,NA,NA,NA,NA,1,1,0.1,0,NA,NA,0
+2,1,,NA,NA,NA,NA,NA,NA,NA," Sample size requirements vary depending on the design of the study.  Some analyses require larger samples than others to provide sufficient power for hypothesis testing.  I consider the type of analyses, reported findings, and power calculations to evaluate quality of the sample size.  ",3,0.05,0.8,0.2,50,3,NA,1,7,5,NA,0.167675486,NA,-0.632324514,0.05,0.8,0.2,50,0.167675486,-0.632324514,0
+1,1,I do not conduct empirical research.,4,0.01,0.9,0.5,100,NA,3,,NA,NA,NA,NA,NA,NA,NA,9,9,5,0.823822489,NA,-0.076177511,NA,0.01,0.9,0.5,100,0.823822489,-0.076177511,0
+2,1,,NA,NA,NA,NA,NA,NA,NA,By gauging the size of the effect.,3,0.05,0.75,0.5,25,NA,1,7,6,3,NA,0.410100332,NA,-0.339899668,0.05,0.75,0.5,25,0.410100332,-0.339899668,0
+1,0,"i work with large (N= 10000 plus) routine practice datasets , therefore sample size is rarely an issue",4,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+1,1,,4,0.05,0.8,0.2,80,3,NA,,NA,NA,NA,NA,NA,NA,NA,3,8,4,0.241757787,NA,-0.558242213,NA,0.05,0.8,0.2,80,0.241757787,-0.558242213,0
+1,1,varies,4,0.05,0.8,2,60,3,NA,,NA,NA,NA,NA,NA,NA,NA,1,6,3,1,NA,0.2,NA,0.05,0.8,2,60,1,0.2,0
+1,1,"feasibility of recruiting participants, design of the study, type of analyses that will be conducted etc.",4,0.05,0.8,0.2,40,3,NA,,NA,NA,NA,NA,NA,NA,NA,3,7,3,0.143080304,NA,-0.656919696,NA,0.05,0.8,0.2,40,0.143080304,-0.656919696,0
+1,1,Use a rule of thumb of 50 per condition,4,0.05,0.9,0.5,50,NA,3,,NA,NA,NA,NA,NA,NA,NA,6,3,1,0.696893406,NA,-0.203106594,NA,0.05,0.9,0.5,50,0.696893406,-0.203106594,0
+2,1,,NA,NA,NA,NA,NA,NA,NA,,3,0.1,0.8,0.5,30,3,NA,2,6,2,NA,0.606211397,NA,-0.193788603,0.1,0.8,0.5,30,0.606211397,-0.193788603,0
+1,1,availability and sample size calculation (power),3,0.05,0.8,0.35,60,3,NA,,NA,NA,NA,NA,NA,NA,NA,1,7,4,0.476713163,NA,-0.323286837,NA,0.05,0.8,0.35,60,0.476713163,-0.323286837,1
+2,1,,NA,NA,NA,NA,NA,NA,NA,"I estimate power based on total N, type of analysis, expected effect size, and number of cells. ",3,0.1,0.8,0.3,25,NA,3,10,8,3,NA,0.278107866,NA,-0.521892134,0.1,0.8,0.3,25,0.278107866,-0.521892134,0
+1,1,,3,0.05,0.8,0.5,10,4,NA,,NA,NA,NA,NA,NA,NA,NA,9,9,1,0.185095656,NA,-0.614904344,NA,0.05,0.8,0.5,10,0.185095656,-0.614904344,0
+1,1,"For the effects that I typically study, I know that 24 to 36 participants per condition is reasonable. I base the exact number of participants upon the number of variables that need to be counterbalanced (to ensure that there are an equal number of people in each counterbalanced condition). ",3,0.05,0.8,0.4,24,3,NA,,NA,NA,NA,NA,NA,NA,NA,2,8,1,0.273649031,NA,-0.526350969,NA,0.05,0.8,0.4,24,0.273649031,-0.526350969,0
+1,1,,3,0.05,0.8,0.5,25,NA,1,,NA,NA,NA,NA,NA,NA,NA,8,8,2,0.410100332,NA,-0.389899668,NA,0.05,0.8,0.5,25,0.410100332,-0.389899668,0
+2,1,,NA,NA,NA,NA,NA,NA,NA,"I work in developmental psychology, in infancy work, where sample sizes are often quite low (under 50, sometimes as small as 24). ",3,0.05,0.5,0.2,20,3,NA,3,7,2,NA,0.094567328,NA,-0.405432672,0.05,0.5,0.2,20,0.094567328,-0.405432672,0
+2,1,,NA,NA,NA,NA,NA,NA,NA,If it's appropriate for the model under consideration and is likely to have a chance to be representative of the population from which it was derived.,4,0.05,0.8,0.5,10,3,NA,9,8,6,NA,0.185095656,NA,-0.614904344,0.05,0.8,0.5,10,0.185095656,-0.614904344,0
+2,0,,NA,NA,NA,NA,NA,NA,NA,"As a reviewer I adhere to the recommendations of Simmons, Nelson & Simonsohn, 2011. I look for an n of at least 20 per condition (although that is still terribly low for detecting most effects we study). I also look for a concrete statement as to how that n was determined. ",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+1,1,I have basic rules of thumb born out of experience in my area. Sometimes will do power analyses.,2,0.05,0.8,0.5,64,3,NA,,NA,NA,NA,NA,NA,NA,NA,10,10,3,0.801459558,NA,0.001459558,NA,0.05,0.8,0.5,64,0.801459558,0.001459558,1
+2,1,,NA,NA,NA,NA,NA,NA,NA,"In general I look to see that the sample size is consistent with previous studies within that field. For example, genetics findings tend to have small effects and large sample sizes. For cognitive neuroscience fMRI studies I might expect between 15-25 subjects. For studies on the sensory systems I might anticipate at least 8 subjects.  ",3,0.05,0.8,0.5,20,NA,3,2,6,1,NA,0.337939029,NA,-0.462060971,0.05,0.8,0.5,20,0.337939029,-0.462060971,0
+2,1,,NA,NA,NA,NA,NA,NA,NA,past research,3,0.05,0.8,0.4,25,3,NA,3,7,4,NA,0.28339873,NA,-0.51660127,0.05,0.8,0.4,25,0.28339873,-0.51660127,0
+1,1,"I look to other, similar studies, or to my own past work and calculate the number of participants necessary to achieve power =.80 given alpha =.05.",3,0.05,0.8,0.5,30,NA,3,,NA,NA,NA,NA,NA,NA,NA,3,8,3,0.477896521,NA,-0.322103479,NA,0.05,0.8,0.5,30,0.477896521,-0.322103479,1
+1,1,,4,0.05,0.8,0.5,30,1,NA,,NA,NA,NA,NA,NA,NA,NA,9,8,3,0.477896521,NA,-0.322103479,NA,0.05,0.8,0.5,30,0.477896521,-0.322103479,0
+1,1,"Based on previous similar studies, samples availability, and rough estimate of the effect size ",3,0.1,0.8,0.2,50,3,NA,,NA,NA,NA,NA,NA,NA,NA,10,7,2,0.261450374,NA,-0.538549626,NA,0.1,0.8,0.2,50,0.261450374,-0.538549626,0
+2,1,,NA,NA,NA,NA,NA,NA,NA,By assessing its power to find its hypothesized effects.,4,0.05,0.65,0.35,50,3,NA,1,8,6,NA,0.410277788,NA,-0.239722212,0.05,0.65,0.35,50,0.410277788,-0.239722212,0
+2,1,,NA,NA,NA,NA,NA,NA,NA,convention in the field + power analysis + what conclusions are being drawn (if sample size is smaller but conclusions are more tentative that's acceptable),3,0.05,0.8,0.2,40,NA,3,8,8,2,NA,0.143080304,NA,-0.656919696,0.05,0.8,0.2,40,0.143080304,-0.656919696,0
+1,1,the minimal sample size is usually determined by considering the size of the effects of interest,4,0.05,0.5,0.5,40,NA,1,,NA,NA,NA,NA,NA,NA,NA,7,7,3,0.598146901,NA,0.098146901,NA,0.05,0.5,0.5,40,0.598146901,0.098146901,0
+2,0,,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+1,0,,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+1,1,"My research is largely focused on a longitudinal sample, so the sample size is determined the number of participants who have been retained across the years. ",4,0.05,0.8,0.5,250,NA,1,,NA,NA,NA,NA,NA,NA,NA,3,7,1,0.999852355,NA,0.199852355,NA,0.05,0.8,0.5,250,0.999852355,0.199852355,0
+2,1,,NA,NA,NA,NA,NA,NA,NA,,4,0.05,0.95,0.5,30,NA,1,8,7,2,NA,0.477896521,NA,-0.472103479,0.05,0.95,0.5,30,0.477896521,-0.472103479,0
+1,1, Based on information from previous studies,4,0.01,0.9,0.5,50,3,NA,,NA,NA,NA,NA,NA,NA,NA,8,7,2,0.452991541,NA,-0.447008459,NA,0.01,0.9,0.5,50,0.452991541,-0.447008459,0
+2,1,,NA,NA,NA,NA,NA,NA,NA,"Depends on the expected size and confidence intervals of the effect. Example: Sample size of 100 is sufficient for g-loadings of Wechsler subtests, but at least 400 twin pairs would be required for reasonably accurate heritability estimates.  ",4,0.05,0.8,0.3,50,3,NA,2,3,4,NA,0.317802205,NA,-0.482197795,0.05,0.8,0.3,50,0.317802205,-0.482197795,0
+1,1,"I aim to get around 40 participants for each condition. For correlational studies, I will try to get at least 100 participants.",3,0.05,0.8,0.15,35,3,NA,,NA,NA,NA,NA,NA,NA,NA,10,7,4,0.094872677,NA,-0.705127323,NA,0.05,0.8,0.15,35,0.094872677,-0.705127323,0
+1,0,,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+2,1,,NA,NA,NA,NA,NA,NA,NA,By estimating (if possible) the effect size which can be expected in relation to the number of individuals (and observations) in the study.  (for question below: my choice would depend on the sample size needed. If you would really need a large sample size to avoid spurious assocations I would prefer having just one study but if 50 might already be reasonably good then a replication would be better I think),3,0.05,0.7,0.2,50,NA,3,1,8,5,NA,0.167675486,NA,-0.532324514,0.05,0.7,0.2,50,0.167675486,-0.532324514,0
+2,0,,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+1,0,,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+1,1,Power calculations,4,0.1,0.8,0.3,50,3,NA,,NA,NA,NA,NA,NA,NA,NA,5,6,4,0.439185953,NA,-0.360814047,NA,0.1,0.8,0.3,50,0.439185953,-0.360814047,1
+2,1,,NA,NA,NA,NA,NA,NA,NA,I have not yet reviewed any papers.,2,0.05,0.8,0.5,50,3,NA,1,4,1,NA,0.696893406,NA,-0.103106594,0.05,0.8,0.5,50,0.696893406,-0.103106594,0
+1,1,"for one session exp.--> N>=30, for trainingstudies smaller sample size ok when session 10 or higher",2,0.05,0.8,0.6,30,3,NA,,NA,NA,NA,NA,NA,NA,NA,2,4,2,0.627504587,NA,-0.172495413,NA,0.05,0.8,0.6,30,0.627504587,-0.172495413,0
+1,1,"literature, expected size of effect.",3,0.05,0.8,0.5,15,3,NA,,NA,NA,NA,NA,NA,NA,NA,7,6,6,0.262443034,NA,-0.537556966,NA,0.05,0.8,0.5,15,0.262443034,-0.537556966,0
+1,1,"Comparison to other studies, experience with comparable experiments, pilot experiments.",4,0.05,0.5,0.5,10,NA,3,,NA,NA,NA,NA,NA,NA,NA,7,5,3,0.185095656,NA,-0.314904344,NA,0.05,0.5,0.5,10,0.185095656,-0.314904344,0
+1,1,"As I normally do correlation-based studies (e.g., individual differences), a sample size of more than 150 is preferred.  If I conduct experiments, then each experimental cell should have at least 25 participants.  That would work out to be at 100 in a 2x2 design.",4,0.05,0.7,0.5,25,3,NA,,NA,NA,NA,NA,NA,NA,NA,8,7,3,0.410100332,NA,-0.289899668,NA,0.05,0.7,0.5,25,0.410100332,-0.289899668,0
+2,1,,NA,NA,NA,NA,NA,NA,NA,,3,0.05,0.8,0.5,20,NA,3,1,5,3,NA,0.337939029,NA,-0.462060971,0.05,0.8,0.5,20,0.337939029,-0.462060971,0
+1,0,,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+2,1,,NA,NA,NA,NA,NA,NA,NA,very important,1,0.05,0.8,0.2,25,NA,3,8,7,6,NA,0.106581448,NA,-0.693418552,0.05,0.8,0.2,25,0.106581448,-0.693418552,0
+2,1,,NA,NA,NA,NA,NA,NA,NA,Ensuring a study has adequate power to detect effects,3,0.05,0.8,0.5,30,NA,3,1,6,6,NA,0.477896521,NA,-0.322103479,0.05,0.8,0.5,30,0.477896521,-0.322103479,0
+1,0,Until now it has been kind of ad hoc - but recently we started computing the power of our studies to support decisions concerning sample size  ,4,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+1,0,,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+2,0,,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+1,0,,3,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+2,0,,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+1,0,,2,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+1,0,,4,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+1,0,,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+1,0,,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+1,0,power analysis,4,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+1,0,,3,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+1,0,,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+1,0,,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+1,0,By number of conditions,2,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+1,0,,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+2,0,,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+1,0,based on results of previous studies. No I have one longitudinal study.,2,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+2,0,,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+1,1,,3,0.05,0.8,0.5,25,NA,3,,NA,NA,NA,NA,NA,NA,NA,8,9,1,0.410100332,NA,-0.389899668,NA,0.05,0.8,0.5,25,0.410100332,-0.389899668,0
+2,0,,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+1,0,"lot of knowledge (practical skills, missing data), sometimes a test for effect sizes",4,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+2,0,,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+2,0,,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+2,0,,NA,NA,NA,NA,NA,NA,NA,,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+2,0,,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+2,0,,NA,NA,NA,NA,NA,NA,NA,,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+2,0,,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+2,0,,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+NA,0,,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+1,0,,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+2,0,,NA,NA,NA,NA,NA,NA,NA,,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+2,0,,NA,NA,NA,NA,NA,NA,NA,General power level; similarity to other studies of similar phenomena,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+2,0,,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+1,0,"""the more the better""  Anything under a thousand is too small.",4,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+2,0,,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+2,0,,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+2,0,,NA,NA,NA,NA,NA,NA,NA,,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+1,0,practical considerations pluis consideration of effect size,4,0.05,0.8,0.5,125,NA,3,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.976009159,NA,0.176009159,NA,0.05,0.8,0.5,125,0.976009159,0.176009159,0
+2,0,,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+2,0,,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+1,0,,4,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+2,0,,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+1,0,,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+2,0,,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+2,0,,NA,NA,NA,NA,NA,NA,NA,"yes, but not formally. I don't have a rubric or something of that sort.",4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+2,0,,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+1,0,,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+1,0,,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+2,0,,NA,NA,NA,NA,NA,NA,NA,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+2,0,,NA,NA,NA,NA,NA,NA,NA,,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+1,0,by using the effect size AND by looking at the numbers used by previous researchers,4,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+1,0,I have been focused on comparative studies which cover practically all countries of the world.,4,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+2,0,,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+NA,0,,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+2,0,,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+1,0,,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+1,0,depending on the sample size of other studies on the same topic,4,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+1,0,,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+1,0,,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+1,0,,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+2,0,,NA,NA,NA,NA,NA,NA,NA,"Depends on the design and the question, but I read the methods sections carefully",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+NA,0,,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+2,0,,NA,NA,NA,NA,NA,NA,NA,,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
