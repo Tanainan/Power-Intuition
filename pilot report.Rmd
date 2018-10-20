@@ -68,6 +68,7 @@ reportObject <- data.frame(dummyRow = TRUE, reportedValue = NA, obtainedValue = 
 # Step 2: Load data
 
 ```{r}
+dat <- read.csv("data study 1.csv")
 ```
 
 # Step 3: Tidy data
