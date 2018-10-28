@@ -51,6 +51,9 @@ knitr::opts_chunk$set(echo=TRUE, warning=FALSE, message=FALSE)
 
 ```{r}
 # load packages
+install.packages("tidyverse")
+install.packages("devtools") 
+devtools::install_github("METRICS-CARPS/CARPSreports")
 library(tidyverse) # for data munging
 library(knitr) # for kable table formating
 library(haven) # import and export 'SPSS', 'Stata' and 'SAS' Files
@@ -68,7 +71,6 @@ reportObject <- data.frame(dummyRow = TRUE, reportedValue = NA, obtainedValue = 
 # Step 2: Load data
 
 ```{r}
-<<<<<<< HEAD
 dataNew <- read.csv("data study 1.csv")
 dataCompleet=dataNew[dataNew$Finished==1,]
 dat=dataCompleet
@@ -76,8 +78,8 @@ dat=dataCompleet
 R2=read.csv("Q1dataC1eval_Second rater.csv")
 R1=read.csv2("Q1dataC1eval_First rater.csv")
 RF=read.csv("EvalFinal.csv")
-=======
-dat <- read.csv("data study 1.csv")
+
+
 >>>>>>> e890be8602237f2fe46b5796a666477b2e5e3253
 ```
 
@@ -110,7 +112,6 @@ R1$As.many.as.possible[which(is.na(R1$As.many.as.possible))]=0
 [you can remove this section if no pre-processing is required]
 
 ```{r}
-<<<<<<< HEAD
 library(devtools)
 install_github("nicebread/WRS", subdir="pkg")
 install.packages("WRS")
@@ -153,7 +154,7 @@ reportObject <- reproCheck(reportedValue = '291', obtainedValue = c, valueType =
 d <- round(dim(dat)[1] / 1135, 2); d # Ibid, in %
 reportObject <- reproCheck(reportedValue = '0.26', obtainedValue = d, valueType = 'other')
 
-########
+######## doesn't work*****
 e <- table(dat$Condition);e # Condition division
 ae <- as.numeric(e);ae 
 reportObject <- reproCheck(reportedValue = '169', obtainedValue = ae, valueType = 'other')
@@ -196,7 +197,7 @@ td <- as.numeric(round(table(RF$Other.experiments) / 197, 2))
 reportObject <- reproCheck(reportedValue = '0.21', obtainedValue = td, valueType = 'other')
 
 
-###########
+########### doesn't work *****
 # As many as possible mention
 table(RF$As.many.as.possible)
 te <- as.numeric(round(table(RF$As.many.as.possible) / 197, 2)); te
@@ -208,7 +209,9 @@ round(length(which(dat$Q3==.05))/length(na.omit(dat$Q3)), 2)
 round(length(which(dat$Q4==.8))/length(na.omit(dat$Q4)), 2)
 
 # Table 1 -----------------------------------------------------------------
-m <- tmean(dat$Q3,na.rm=T) 	#alpha estimate
+install.packages("depthTools")
+library(depthTools)
+m <- tmean(dat$Q3,na.rm=T); m 	#alpha estimate
 reportObject <- reproCheck(reportedValue = '0.05', obtainedValue = m, valueType = 'mean')
 
 es <- round(tmean(dat$Q5,na.rm=T), 2)	#ES estimate
@@ -220,7 +223,7 @@ reportObject <- reproCheck(reportedValue = '34.6', obtainedValue = n, valueType 
 pw <- round(tmean(dat$Q4,na.rm=T), 2)	#reported power estimate 
 reportObject <- reproCheck(reportedValue = '0.80', obtainedValue = pw, valueType = 'other')
 
-###########
+########### doesn't work ****
 p <- power.t.test(n = tmean(dat$Q6,na.rm=T), d = tmean(dat$Q5,na.rm=T));p #calculated power (overall) 
 reportObject <- reproCheck(reportedValue = '0.35', obtainedValue = p, valueType = 'other')
 ###########
@@ -242,8 +245,8 @@ power.t.test(n = 25, d = .5)
 
 
 # % Do not conduct power analyses
-round(sum(dat$PowMen == 0) / length(dat$PowMen), 2)
-
+p <- round(sum(dat$PowMen == 0) / length(dat$PowMen), 2)
+reportObject <- reproCheck(reportedValue = '.74', obtainedValue = p, valueType = 'other')
 
 # Reported and calculated power compared ----------------------------------
 #difference reported and calculated power
