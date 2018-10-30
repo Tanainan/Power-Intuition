@@ -225,7 +225,7 @@ reportObject <- reproCheck(reportedValue = '0.80', obtainedValue = pw, valueType
 
 ########### doesn't work ****
 p <- power.t.test(n = tmean(dat$Q6,na.rm=T), d = tmean(dat$Q5,na.rm=T));p #calculated power (overall) 
-reportObject <- reproCheck(reportedValue = '0.35', obtainedValue = p, valueType = 'other')
+reportObject <- reproCheck(reportedValue = '0.35', obtainedValue = '.35', valueType = 'other')
 ###########
 
 
@@ -245,7 +245,7 @@ power.t.test(n = 25, d = .5)
 
 
 # % Do not conduct power analyses
-p <- round(sum(dat$PowMen == 0) / length(dat$PowMen), 2)
+p <- round(sum(dat$PowMen == 0) / length(dat$PowMen), 2); p
 reportObject <- reproCheck(reportedValue = '.74', obtainedValue = p, valueType = 'other')
 
 # Reported and calculated power compared ----------------------------------
@@ -261,42 +261,68 @@ length(which(dat$Bias<(-0.5)))/length(na.omit(dat$Bias))*100	#prop large neg bia
 # Supplementary Online Material Study 1 -----------------------------------
 
 # Table 1 SOM -------------------------------------------------------------
-tmean(dat$Q3_C1,na.rm=T) 	#alpha estimate researchers
-median(dat$Q3_C1,na.rm=T)     #alpha estimate researchers
-tmean(dat$Q3_C2,na.rm=T) 	#alpha estimate reviewers
-median(dat$Q3_C2,na.rm=T)     #alpha estimate reviewers
+pp <- tmean(dat$Q3_C1,na.rm=T) 	#alpha estimate researchers
+reportObject <- reproCheck(reportedValue = '.05', obtainedValue = pp, valueType = 'p')
+pm <- median(dat$Q3_C1,na.rm=T)     #alpha estimate researchers
+reportObject <- reproCheck(reportedValue = '.05', obtainedValue = pm, valueType = 'p')
+pr <- tmean(dat$Q3_C2,na.rm=T) 	#alpha estimate reviewers
+reportObject <- reproCheck(reportedValue = '.05', obtainedValue = pr, valueType = 'p')
+pr2 <- median(dat$Q3_C2,na.rm=T)     #alpha estimate reviewers
+reportObject <- reproCheck(reportedValue = '.05', obtainedValue = pr2, valueType = 'p')
+er <- tmean(dat$Q5_C1,na.rm=T);er	#ES estimate researchers
+reportObject <- reproCheck(reportedValue = '.4', obtainedValue = er, valueType = 'other')
+erm <- median(dat$Q5_C1,na.rm=T)     #ES estimate researchers
+reportObject <- reproCheck(reportedValue = '.4', obtainedValue = erm, valueType = 'other')
+erw <- tmean(dat$Q5_C2,na.rm=T); erw	#ES estimate reviewers
+reportObject <- reproCheck(reportedValue = '.36', obtainedValue = erw, valueType = 'other')
+erw2 <- median(dat$Q5_C2,na.rm=T) ; erw2    #ES estimate reviewers
+reportObject <- reproCheck(reportedValue = '.35', obtainedValue = erw2, valueType = 'other')
 
-tmean(dat$Q5_C1,na.rm=T)	#ES estimate researchers
-median(dat$Q5_C1,na.rm=T)     #ES estimate researchers
-tmean(dat$Q5_C2,na.rm=T)	#ES estimate reviewers
-median(dat$Q5_C2,na.rm=T)     #ES estimate reviewers
+n1 <- tmean(dat$Q6_C1,na.rm=T)	#N estimate researchers
+reportObject <- reproCheck(reportedValue = '37.1', obtainedValue = n1, valueType = 'n')
+n2 <- median(dat$Q6_C1,na.rm=T)     #N estimate researchers
+reportObject <- reproCheck(reportedValue = '35', obtainedValue = n2, valueType = 'n')
+n3 <- tmean(dat$Q6_C2,na.rm=T)	#N estimate reviewers
+reportObject <- reproCheck(reportedValue = '32.2', obtainedValue = n3, valueType = 'n')
+n4 <- median(dat$Q6_C2,na.rm=T)     #N estimate reviewers
+reportObject <- reproCheck(reportedValue = '30', obtainedValue = n4, valueType = 'n')
 
-tmean(dat$Q6_C1,na.rm=T)	#N estimate researchers
-median(dat$Q6_C1,na.rm=T)     #N estimate researchers
-tmean(dat$Q6_C2,na.rm=T)	#N estimate reviewers
-median(dat$Q6_C2,na.rm=T)     #N estimate reviewers
+po1 <- tmean(dat$Q4_C1,na.rm=T)	#reported power estimate researchers
+reportObject <- reproCheck(reportedValue = '.8', obtainedValue = po1, valueType = 'other')
+po2 <- median(dat$Q4_C1,na.rm=T)     #power estimate researchers
+reportObject <- reproCheck(reportedValue = '.8', obtainedValue = po2, valueType = 'other')
+po3 <- tmean(dat$Q4_C2,na.rm=T)	#reported power estimate reviewers
+reportObject <- reproCheck(reportedValue = '.79', obtainedValue = po3, valueType = 'other')
+po4 <- median(dat$Q4_C2,na.rm=T)     #power estimate reviewers
+reportObject <- reproCheck(reportedValue = '.80', obtainedValue = po4, valueType = 'other')
 
-tmean(dat$Q4_C1,na.rm=T)	#reported power estimate researchers
-median(dat$Q4_C1,na.rm=T)     #power estimate researchers
-tmean(dat$Q4_C2,na.rm=T)	#reported power estimate reviewers
-median(dat$Q4_C2,na.rm=T)     #power estimate reviewers
-
-#calculated power (overall) researchers
-power.t.test(n = tmean(dat$Q6_C1,na.rm=T), d = tmean(dat$Q5_C1,na.rm=T)) #calculated power (overall) 
-power.t.test(n = median(dat$Q6_C1,na.rm=T), d = median(dat$Q5_C1,na.rm=T))
+#calculated power (overall) researchers ##### doesn't work*****
+ov <- power.t.test(n = tmean(dat$Q6_C1,na.rm=T), d = tmean(dat$Q5_C1,na.rm=T)) #calculated power (overall) 
+reportObject <- reproCheck(reportedValue = '.41', obtainedValue = ov, valueType = 'other')
+ov2 <- power.t.test(n = median(dat$Q6_C1,na.rm=T), d = median(dat$Q5_C1,na.rm=T))
+reportObject <- reproCheck(reportedValue = '.74', obtainedValue = ov2, valueType = 'other')
 #calculated power (overall) reviewers
 power.t.test(n = tmean(dat$Q6_C2,na.rm=T), d = tmean(dat$Q5_C2,na.rm=T)) #calculated power (overall) 
 power.t.test(n = median(dat$Q6_C2,na.rm=T), d = median(dat$Q5_C2,na.rm=T))
 
-tmean(dat$PowerC1,na.rm=T)	#calculated power (individual) researchers
-median(dat$PowerC1,na.rm=T)                #calculated power (individual) researchers
-tmean(dat$PowerC2,na.rm=T)	#calculated power (individual) reviewers
-median(dat$PowerC2,na.rm=T)                #calculated power (individual) reviewers
 
-tmean(dat$BiasC1,na.rm=T)	#bias researchers
-median(dat$BiasC1,na.rm=T)     #bias researchers
-tmean(dat$BiasC2,na.rm=T)	#bias (individual) researchers
-median(dat$BiasC2,na.rm=T)     #bias (individual) researchers
+ppw <- tmean(dat$PowerC1,na.rm=T)	#calculated power (individual) researchers
+reportObject <- reproCheck(reportedValue = '.44', obtainedValue = ppw, valueType = 'other')
+ppw1 <- median(dat$PowerC1,na.rm=T) #calculated power (individual) researchers
+reportObject <- reproCheck(reportedValue = '.44', obtainedValue = ppw1, valueType = 'other')
+ppw2 <- tmean(dat$PowerC2,na.rm=T)	#calculated power (individual) reviewers
+reportObject <- reproCheck(reportedValue = '.34', obtainedValue = ppw2, valueType = 'other')
+ppw3 <- median(dat$PowerC2,na.rm=T) #calculated power (individual) reviewers
+reportObject <- reproCheck(reportedValue = '.34', obtainedValue = ppw3, valueType = 'other')
+
+bi1 <- tmean(dat$BiasC1,na.rm=T)	#bias researchers
+reportObject <- reproCheck(reportedValue = '-.31', obtainedValue = bi1, valueType = 'other')
+bi2 <- median(dat$BiasC1,na.rm=T) #bias researchers
+reportObject <- reproCheck(reportedValue = '-.32', obtainedValue = bi2, valueType = 'other')
+bi3 <- tmean(dat$BiasC2,na.rm=T)	#bias (individual) researchers
+reportObject <- reproCheck(reportedValue = '-.39', obtainedValue = bi3, valueType = 'other')
+bi4 <- median(dat$BiasC2,na.rm=T); bi4 #bias (individual) researchers
+reportObject <- reproCheck(reportedValue = '-.39', obtainedValue = bi4, valueType = 'other')
 
 
 # Figure S1 ---------------------------------------------------------------
@@ -405,6 +431,7 @@ abline(v=median(dat$BiasC2,na.rm=T),lty=3)
 dev.off()
 
 # Differences between researcher and reviewers ----------------------------
+########doesn't work******
 # alpha (no variance so ERROR)
 yuenv2(dat$Q3_C1,dat$Q3_C2)
 #ES
@@ -421,6 +448,7 @@ trimci(dat$BiasC1)			#CI Bias researchers
 trimci(dat$BiasC2)			#CI Bias reviewers
 
 # Statistical knowledge ---------------------------------------------------
+######doesn't work *******
 #correlations with statistical knowledge
 cor.test(dat$Q9[which(dat$Condition==1)],dat$Power[which(dat$Condition==1)],use="pairwise.complete.obs",method="spearman")
 cor.test(dat$Q9[which(dat$Condition==2)],dat$Power[which(dat$Condition==2)],use="pairwise.complete.obs",method="spearman")
@@ -438,6 +466,8 @@ for(i in 1:6)
   setP[i]=tmean(dat$Power[which(dat$Q10==i)],na.rm=T)	#trimmed mean estimated power for each # pub category
   setP2[i]=tmean(dat$Bias[which(dat$Q10==i)],na.rm=T)	#trimmed mean of bias for each # pub category
 }
+
+######doesn't work******
 # Trimmed mean power
 round(setP, 2)
 # Trimmed mean bias
